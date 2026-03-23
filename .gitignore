@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+
+# Local work directories with large data
+缓存文件/
+不规则文件/
+交付内容/bank/
+交付内容/downloads/
+
+# Local metadata / tooling
+交付内容/.claude/
+交付内容/__pycache__/
+
+# Intermediate and output artifacts
+交付内容/*.xlsx
+交付内容/*.xls
+交付内容/*.csv
+交付内容/*.json
+交付内容/un_downloaded_records.csv
+
+# Keep documentation and source code in delivery folder
+!交付内容/README.md
+!交付内容/*.py

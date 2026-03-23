@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "beijing-open-data-enterprise-risk"
+version = "0.1.0"
+description = "Pipeline for classifying, downloading, and aggregating Beijing open-data datasets into enterprise risk profiles."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas>=2.0",
+  "beautifulsoup4>=4.12",
+  "selenium>=4.18",
+  "openpyxl>=3.1",
+  "xlrd>=2.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/chaomacv/beijing-open-data-enterprise-risk"
+Repository = "https://github.com/chaomacv/beijing-open-data-enterprise-risk"
+
+[tool.setuptools]
+py-modules = []
