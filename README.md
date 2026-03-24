@@ -194,7 +194,7 @@ bank/
 ### 1. 安装依赖
 
 ```bash
-cd agent/bank
+cd bank
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
