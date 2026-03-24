@@ -116,17 +116,17 @@
 
 从北京市开放数据平台下载的目录总表开始，整个工程链路如下：
 
-1. `output/目录清单.xlsx`
-2. `scripts/enterprise_kyc_classifier.py`
-3. `output/目录清单_分类结果.xlsx`
+1. `output/目录清单.xlsx`(from https://data.beijing.gov.cn/)
+2. 运行`scripts/enterprise_kyc_classifier.py`
+3. 输出`output/目录清单_分类结果.xlsx`
 4. 人工筛选与剔除不感兴趣内容
-5. `output/目录清单_分类结果_人工过筛.xlsx`
-6. `scripts/dataset_freshness_and_filename_updater.py`
-7. `output/目录清单_分类结果_人工过筛_更新时间_补充文件名.xlsx`
-8. `scripts/prune_columns.py`
-9. `output/目录清单_分类结果_人工过筛_更新时间_补充文件名_精简列信息.xlsx`
-10. `scripts/build_entity_profile_one_pass.py`
-11. `output/特征矩阵风控模型宽表.xlsx`
+5. 输出`output/目录清单_分类结果_人工过筛.xlsx`
+6. 运行`scripts/dataset_freshness_and_filename_updater.py`
+7. 输出`output/目录清单_分类结果_人工过筛_更新时间_补充文件名.xlsx`
+8. 运行`scripts/prune_columns.py`
+9. 输出`output/目录清单_分类结果_人工过筛_更新时间_补充文件名_精简列信息.xlsx`
+10. 运行`scripts/build_entity_profile_one_pass.py`
+11. 输出`output/特征矩阵风控模型宽表.xlsx`
 
 更详细的脚本级流程见 [docs/pipeline.md](./docs/pipeline.md)。
 
