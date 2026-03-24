@@ -27,3 +27,13 @@ env/
 /dataset/北京市市场监督管理局-餐饮服务单位案件执法信息.csv
 /dataset/市经济信息化局-京津冀晋信用评价结果.csv
 /dataset/工程建设-中标结果.csv
+
+# Exclude oversized files for GitHub
+/dataset/北京市市场监督管理局-餐饮服务单位案件执法信息.csv
+/dataset/市经济信息化局-京津冀晋信用评价结果.csv
+/dataset/工程建设-中标结果.csv
+
+# Exclude oversized files for GitHub
+/dataset/北京市市场监督管理局-餐饮服务单位案件执法信息.csv
+/dataset/市经济信息化局-京津冀晋信用评价结果.csv
+/dataset/工程建设-中标结果.csv
