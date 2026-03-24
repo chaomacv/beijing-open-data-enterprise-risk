@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+
+# Legacy local work directories
+缓存文件/
+不规则文件/
+
+# Exclude oversized files for GitHub
+/dataset/北京市市场监督管理局-餐饮服务单位案件执法信息.csv
+/dataset/市经济信息化局-京津冀晋信用评价结果.csv
+/dataset/工程建设-中标结果.csv
