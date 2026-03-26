@@ -1,6 +1,6 @@
 """
 批量下载器 - 支持微信扫码登录后批量下载数据集文件
-(已优化: 每次运行强制手动扫码登录，支持后台并发下载)
+(已优化: 极简触发模式，浏览器关闭后统一进行本地文件精准对账校验)
 """
 
 import argparse
@@ -8,7 +8,6 @@ import os
 import re
 import sys
 import time
-from pathlib import Path
 
 import pandas as pd
 from selenium import webdriver
@@ -25,15 +24,11 @@ from selenium.common.exceptions import (
 
 # ==================== 默认配置 ====================
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-PROJECT_DIR = SCRIPT_DIR.parent
-WORKSPACE_DIR = PROJECT_DIR / "output"
-
 DEFAULT_LOGIN_URL = "https://data.beijing.gov.cn"
-DEFAULT_INPUT_FILE = WORKSPACE_DIR / "目录清单_分类结果_人工过筛_更新时间_补充文件名.xlsx"
-DEFAULT_DOWNLOAD_DIR = WORKSPACE_DIR / "bank"
+DEFAULT_DOWNLOAD_DIR = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), "downloads"
+)
 PAGE_LOAD_TIMEOUT = 20
-TRIGGER_WAIT_TIMEOUT = 5  # 点击后等待几秒钟来确认是否产生了下载缓存文件
 MAX_RETRY = 3
 
 
@@ -88,31 +83,10 @@ def wait_for_wechat_login(driver, login_url):
     return True
 
 
-def is_logged_in(driver):
-    page_source = driver.page_source
-    indicators = ["退出登录", "个人中心", "我的数据", "注销", "退出"]
-    for indicator in indicators:
-        if indicator in page_source:
-            return True
-    return False
-
-
-def check_download_started(download_dir, before_files, timeout=5):
-    """检测是否触发了下载（目录下出现新文件即认为触发）"""
-    start_time = time.time()
-    while time.time() - start_time < timeout:
-        time.sleep(1)
-        current_files = set(os.listdir(download_dir))
-        new_files = current_files - before_files
-        if new_files:
-            return True
-    return False
-
-
 def wait_for_all_background_downloads(download_dir):
     """在脚本结束前，等待所有的后台下载任务完成"""
     print("\n" + "=" * 70)
-    print("  [INFO] 所有链接均已遍历，正在等待后台下载完成...")
+    print("  [INFO] 所有网页已遍历完毕，正在等待后台下载队列清空...")
     print("  [注意] 请勿关闭浏览器，脚本会在所有文件下载完毕后自动退出")
     print("=" * 70)
     
@@ -132,9 +106,9 @@ def wait_for_all_background_downloads(download_dir):
         time.sleep(10)
 
 
-def find_and_click_download(driver, filename, dataset_name, download_dir):
+def find_and_click_download(driver, filename):
+    """在页面上寻找对应文件名的下载按钮并点击（去除了复杂的判断，点完就跑）"""
     compact_filename = re.sub(r"\s+", "", filename)
-    before_files = set(os.listdir(download_dir))
 
     # 策略 1: XPath 精确匹配文件名
     xpaths = [
@@ -151,17 +125,13 @@ def find_and_click_download(driver, filename, dataset_name, download_dir):
         try:
             elements = driver.find_elements(By.XPATH, xpath)
             for elem in elements:
-                try:
-                    if elem.is_displayed():
-                        driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", elem)
-                        time.sleep(0.5)
-                        elem.click()
-                        
-                        if check_download_started(download_dir, before_files, timeout=TRIGGER_WAIT_TIMEOUT):
-                            print("    [OK] 已成功触发下载 (加入浏览器后台队列)")
-                            return True
-                except (ElementClickInterceptedException, StaleElementReferenceException):
-                    continue
+                if elem.is_displayed():
+                    driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", elem)
+                    time.sleep(0.5)
+                    elem.click()
+                    time.sleep(1) # 给浏览器 1 秒钟的反应时间来建立下载任务
+                    print("    [OK] 已点击下载按钮 (XPath匹配)")
+                    return True
         except Exception:
             continue
 
@@ -184,10 +154,9 @@ def find_and_click_download(driver, filename, dataset_name, download_dir):
                     driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", link)
                     time.sleep(0.5)
                     link.click()
-
-                    if check_download_started(download_dir, before_files, timeout=TRIGGER_WAIT_TIMEOUT):
-                        print("    [OK] 已成功触发下载 (加入浏览器后台队列)")
-                        return True
+                    time.sleep(1)
+                    print("    [OK] 已点击下载链接 (遍历匹配)")
+                    return True
             except (StaleElementReferenceException, ElementClickInterceptedException):
                 continue
     except Exception:
@@ -212,10 +181,9 @@ def find_and_click_download(driver, filename, dataset_name, download_dir):
                     driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", elem)
                     time.sleep(0.5)
                     elem.click()
-
-                    if check_download_started(download_dir, before_files, timeout=TRIGGER_WAIT_TIMEOUT):
-                        print("    [OK] 已成功触发下载 (加入浏览器后台队列)")
-                        return True
+                    time.sleep(1)
+                    print("    [OK] 已点击下载按钮 (通用匹配)")
+                    return True
         except Exception:
             continue
 
@@ -236,9 +204,9 @@ def find_and_click_download(driver, filename, dataset_name, download_dir):
         """
         result = driver.execute_script(js_code, compact_filename.lower())
         if result == "clicked":
-            if check_download_started(download_dir, before_files, timeout=TRIGGER_WAIT_TIMEOUT):
-                print("    [OK] 已成功触发下载 (加入浏览器后台队列)")
-                return True
+            time.sleep(1)
+            print("    [OK] 已触发下载 (JS强制触发)")
+            return True
     except Exception:
         pass
 
@@ -246,6 +214,7 @@ def find_and_click_download(driver, filename, dataset_name, download_dir):
 
 
 def handle_download_popups(driver):
+    """处理二次确认弹窗"""
     popup_xpaths = [
         "//button[contains(text(), '确定')]",
         "//button[contains(text(), '同意')]",
@@ -288,7 +257,7 @@ def batch_download(input_file, download_dir, login_url):
 
     df_valid = df[df["具体文件名称"].notna() & (df["具体文件名称"].str.strip() != "")].copy()
     total = len(df_valid)
-    print(f"[INFO] 共 {len(df)} 条记录，其中 {total} 条可供下载\n")
+    print(f"[INFO] 共 {len(df)} 条记录，其中 {total} 条将执行下载流程\n")
 
     if total == 0:
         return
@@ -301,12 +270,8 @@ def batch_download(input_file, download_dir, login_url):
         wait_for_wechat_login(driver, login_url)
 
         print("\n" + "=" * 70)
-        print(f"  开始批量遍历并触发下载，共 {total} 个文件")
+        print(f"  开始批量点击下载，共 {total} 个文件")
         print("=" * 70 + "\n")
-
-        triggered_count = 0
-        fail_count = 0
-        un_downloaded_records = []
 
         for idx, (_, row) in enumerate(df_valid.iterrows()):
             url = str(row.get("文章访问路径", "")).strip()
@@ -314,17 +279,13 @@ def batch_download(input_file, download_dir, login_url):
             dataset_name = str(row.get("数据集名称", "未知")).strip()
 
             print(f"\n[{idx + 1}/{total}] {dataset_name}")
-            print(f"  文件: {filename}")
-            print(f"  网址: {url}")
+            print(f"  待下文件: {filename}")
 
             if not url.startswith("http"):
                 print("  [ERROR] 无效 URL，跳过")
-                fail_count += 1
-                un_downloaded_records.append({"数据集名称": dataset_name, "具体文件名": filename, "下载链接": url, "原因": "无效URL"})
                 continue
 
-            download_triggered = False
-
+            # 开始尝试访问并点击
             for retry in range(MAX_RETRY):
                 try:
                     driver.get(url)
@@ -351,49 +312,75 @@ def batch_download(input_file, download_dir, login_url):
                     except TimeoutException:
                         pass
 
-                    # 查找并触发下载
-                    success = find_and_click_download(driver, filename, dataset_name, download_dir)
+                    # 查找并点击下载
+                    success = find_and_click_download(driver, filename)
 
                     # 处理弹窗
                     if not success:
                         handle_download_popups(driver)
                         time.sleep(2)
-                        success = find_and_click_download(driver, filename, dataset_name, download_dir)
+                        success = find_and_click_download(driver, filename)
 
                     if success:
-                        download_triggered = True
-                        triggered_count += 1
-                        break  # 成功触发，立刻去往下一个链接
+                        break  # 成功点击，立刻去往下一个链接
                     else:
                         if retry < MAX_RETRY - 1:
-                            print(f"  [WARN] 第 {retry + 1} 次尝试未找到按钮或未触发，重试...")
+                            print(f"  [WARN] 第 {retry + 1} 次未找到下载按钮，重试...")
                             time.sleep(2)
+                        else:
+                            print(f"  [ERROR] 网页中未定位到该文件的下载按钮")
 
                 except Exception as e:
-                    print(f"  [ERROR] 出错: {e}")
                     if retry < MAX_RETRY - 1:
-                        print(f"  [WARN] 第 {retry + 1} 次尝试出错，重试...")
+                        print(f"  [WARN] 页面加载或执行出错，重试...")
                         time.sleep(2)
 
-            if not download_triggered:
-                fail_count += 1
-                print(f"  [ERROR] 彻底触发失败（已重试 {MAX_RETRY} 次）")
-                un_downloaded_records.append({
-                    "数据集名称": dataset_name,
-                    "具体文件名": filename,
-                    "下载链接": url,
-                    "原因": "未找到下载链接或触发失败"
-                })
-
-        # 所有链接遍历完后，等待后台并发下载任务清空
+        # 网页全部跑完，死等后台下载任务完成
         wait_for_all_background_downloads(download_dir)
 
     finally:
-        print("\n\n" + "=" * 70)
-        print("  任务统计")
+        print("\n  正在关闭浏览器...")
+        driver.quit()
+        
+        # ==========================================
+        # 核心改动：浏览器关闭后，进行本地文件对账校验
+        # ==========================================
+        print("\n" + "=" * 70)
+        print("  开始进行本地文件对账校验...")
         print("=" * 70)
-        print(f"  成功触发下载: {triggered_count} 个")
-        print(f"  彻底失败未触发: {fail_count} 个")
+        
+        # 获取下载目录下的所有最终文件（此时已不存在.crdownload）
+        if os.path.exists(download_dir):
+            downloaded_files = os.listdir(download_dir)
+        else:
+            downloaded_files = []
+            
+        success_count = 0
+        fail_count = 0
+        un_downloaded_records = []
+
+        for idx, (_, row) in enumerate(df_valid.iterrows()):
+            expected_filename = str(row.get("具体文件名称", "")).strip()
+            
+            # 判断逻辑：只要下载文件夹里有某个文件的名字包含期待的文件名，就算成功
+            # 这样可以兼容浏览器下载时自动添加的 (1), (2) 后缀
+            is_downloaded = any(expected_filename in f for f in downloaded_files)
+            
+            if is_downloaded:
+                success_count += 1
+            else:
+                fail_count += 1
+                un_downloaded_records.append({
+                    "数据集名称": str(row.get("数据集名称", "未知")).strip(),
+                    "具体文件名": expected_filename,
+                    "下载链接": str(row.get("文章访问路径", "")).strip(),
+                    "原因": "本地对账未找到对应文件"
+                })
+
+        print("\n  校验统计:")
+        print(f"  计划下载: {total} 个")
+        print(f"  实际成功: {success_count} 个")
+        print(f"  缺失失败: {fail_count} 个")
 
         if un_downloaded_records:
             fail_file = os.path.join(
@@ -401,41 +388,30 @@ def batch_download(input_file, download_dir, login_url):
                 "un_downloaded_records.csv",
             )
             pd.DataFrame(un_downloaded_records).to_csv(fail_file, index=False, encoding="utf-8-sig")
-            print(f"  [注意] 彻底未能触发下载的文件已保存至:\n  -> {fail_file}")
+            print(f"  [注意] 缺失文件的记录已保存至:\n  -> {fail_file}")
 
-        print("\n  正在关闭浏览器并清理环境...")
-        driver.quit()
-        print("  批量下载任务圆满结束！")
+        print("\n  批量下载任务彻底结束！")
 
 
 # ==================== 入口 ====================
 
 def main():
     parser = argparse.ArgumentParser(
-        description="批量下载数据集文件（强制手动登录版）",
+        description="批量下载数据集文件（采用本地目录对账模式）",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
 
-    parser.add_argument(
-        "--input",
-        "-i",
-        default=str(DEFAULT_INPUT_FILE),
-        help="输入的 Excel/CSV 文件路径",
-    )
-    parser.add_argument(
-        "--download-dir",
-        "-d",
-        default=str(DEFAULT_DOWNLOAD_DIR),
-        help="文件下载保存目录",
-    )
+    parser.add_argument("--input", "-i", default="output/目录清单_分类结果_更新时间_补充文件名.xlsx", help="输入的 Excel/CSV 文件路径")
+    parser.add_argument("--download-dir", "-d", default="output/分类结果下载文件", help="文件下载保存目录")
     parser.add_argument("--login-url", "-l", default=DEFAULT_LOGIN_URL, help="登录页面 URL")
 
     args = parser.parse_args()
 
     if not os.path.exists(args.input):
-        alt_path = WORKSPACE_DIR / args.input
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        alt_path = os.path.join(script_dir, args.input)
         if os.path.exists(alt_path):
-            args.input = str(alt_path)
+            args.input = alt_path
         else:
             print(f"[ERROR] 输入文件不存在: {args.input}")
             sys.exit(1)
