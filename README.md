@@ -252,8 +252,7 @@ dataset/非企业数据文件大json/
     │
     └─→ 路径三：批量通用转换（简单文件快速处理）
         │
-        ├─→ 略
-        └─→ 略
+        └─→ 参考scripts/build_entity_profile_one_pass.py
     │
     ↓
 agent/output_results/ (所有结果聚合)
