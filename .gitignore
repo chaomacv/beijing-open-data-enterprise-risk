@@ -37,3 +37,9 @@ env/
 /dataset/北京市市场监督管理局-餐饮服务单位案件执法信息.csv
 /dataset/市经济信息化局-京津冀晋信用评价结果.csv
 /dataset/工程建设-中标结果.csv
+
+# 非企业数据大文件（保留在本地，不推送GitHub）
+agent/非企业数据矩阵特征宽表.xlsx
+agent/非企业数据矩阵特征宽表.csv
+agent/output_results/*.json
+agent/output_result/*.json
