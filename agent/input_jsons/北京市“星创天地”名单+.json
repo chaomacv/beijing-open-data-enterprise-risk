@@ -1,0 +1,518 @@
+{
+  "source_file": "北京市“星创天地”名单+.csv",
+  "total_rows": 63,
+  "columns": [
+    "Unnamed: 0",
+    "Unnamed: 1",
+    "Unnamed: 2",
+    "Unnamed: 3",
+    "Unnamed: 4",
+    "Unnamed: 5"
+  ],
+  "data": [
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "",
+      "Unnamed: 2": "",
+      "Unnamed: 3": "",
+      "Unnamed: 4": "",
+      "Unnamed: 5": ""
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "2016-2019年度北京市“星创天地”名单",
+      "Unnamed: 2": "",
+      "Unnamed: 3": "",
+      "Unnamed: 4": "",
+      "Unnamed: 5": ""
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "（63家）",
+      "Unnamed: 2": "",
+      "Unnamed: 3": "",
+      "Unnamed: 4": "",
+      "Unnamed: 5": ""
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "序号",
+      "Unnamed: 2": "年度",
+      "Unnamed: 3": "“星创天地”名称",
+      "Unnamed: 4": "单位名称",
+      "Unnamed: 5": "备注"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "1",
+      "Unnamed: 2": "2016",
+      "Unnamed: 3": "农科汇星创天地",
+      "Unnamed: 4": "北京通州国际种业科技有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "2",
+      "Unnamed: 2": "2016",
+      "Unnamed: 3": "小汤山农业园星创天地",
+      "Unnamed: 4": "北京市昌平区小汤山现代农业科技示范园管理中心",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "3",
+      "Unnamed: 2": "2016",
+      "Unnamed: 3": "悠上星创天地",
+      "Unnamed: 4": "北京建设大学",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "4",
+      "Unnamed: 2": "2016",
+      "Unnamed: 3": "智慧农业星创天地",
+      "Unnamed: 4": "北京农业信息技术研究中心",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "5",
+      "Unnamed: 2": "2016",
+      "Unnamed: 3": "都市农职星创天地",
+      "Unnamed: 4": "北京农业职业学院",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "6",
+      "Unnamed: 2": "2016",
+      "Unnamed: 3": "农业梦星创天地",
+      "Unnamed: 4": "北京大北农科技集团股份有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "7",
+      "Unnamed: 2": "2016",
+      "Unnamed: 3": "航天新农星创天地",
+      "Unnamed: 4": "神舟绿鹏农业科技有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "8",
+      "Unnamed: 2": "2016",
+      "Unnamed: 3": "智能农装星创天地",
+      "Unnamed: 4": "北京市农业机械研究所",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "9",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "花仙子万花园星创天地",
+      "Unnamed: 4": "北京花儿朵朵花仙子农业有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "10",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "北京农科孵化星创天地",
+      "Unnamed: 4": "农芯科技（北京）有限责任公司、北京农业智能装备技术研究中心、北京市星火科技培训中心",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "11",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "青源农业星创天地",
+      "Unnamed: 4": "北京德青源农业科技股份有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "12",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "黄芩仙谷星创天地",
+      "Unnamed: 4": "北京瓷茗缘文化发展有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "13",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "天安兴农星创天地",
+      "Unnamed: 4": "北京天安农业发展有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "14",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "智慧蛋鸡星创天地",
+      "Unnamed: 4": "北京市华都峪口禽业有限责任公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "15",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "花融天下星创天地",
+      "Unnamed: 4": "北京鲜花港投资发展中心",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "16",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "未来食尚星创天地",
+      "Unnamed: 4": "北京凯达恒业农业技术开发有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "17",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "首佳利华农业大健康星创天地",
+      "Unnamed: 4": "北京首佳利华生物科技服务有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "18",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "中农芽谷星创天地",
+      "Unnamed: 4": "北京绿山谷芽菜有限责任公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "19",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "益惠农星创天地",
+      "Unnamed: 4": "北京大伟嘉生物技术股份有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "20",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "天葡庄园星创天地",
+      "Unnamed: 4": "北京利农富民葡萄种植专业合作社",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "21",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "顺科·星创天地",
+      "Unnamed: 4": "北京顺鑫农科种业科技有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "22",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "京科惠农星创天地",
+      "Unnamed: 4": "北京市农林科学院",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "23",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "北京乐平农业创意产业园星创天地",
+      "Unnamed: 4": "北京庞各庄乐平农产品产销有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "24",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "密农人家星创天地",
+      "Unnamed: 4": "北京密农人家农业科技有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "25",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "春播农人梦星创天地",
+      "Unnamed: 4": "北京春播科技有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "26",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "分享收获星创天地",
+      "Unnamed: 4": "分享收获（北京）农业发展有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "27",
+      "Unnamed: 2": "2017",
+      "Unnamed: 3": "中关村创客小镇星创天地",
+      "Unnamed: 4": "斯凯兰德生态环保园",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "28",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "美好生活星创天地",
+      "Unnamed: 4": "北京嘉和一品企业管理有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "29",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "派得伟业星创天地",
+      "Unnamed: 4": "北京派得伟业科技发展有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "30",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "智灌农夫星创天地",
+      "Unnamed: 4": "中农昊泽智慧灌溉科技有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "31",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "密隆家盈星创天地",
+      "Unnamed: 4": "北京密隆国际农业科技有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "32",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "花彤蜂蜜星创天地",
+      "Unnamed: 4": "北京奥金达蜂产品专业合作社",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "33",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "云梦园星创天地",
+      "Unnamed: 4": "北京云梦园科技有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "34",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "量子生物农业星创天地",
+      "Unnamed: 4": "中关村量子生物农业产业技术创新战略联盟",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "35",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "园林科创星创天地",
+      "Unnamed: 4": "北京市园林科学研究院",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "36",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "融青生态农业星创天地",
+      "Unnamed: 4": "北京融青生态农业有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "37",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "华林蜂业星创天地",
+      "Unnamed: 4": "北京市蜂业公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "38",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "植物微生态星创天地",
+      "Unnamed: 4": "中农绿康（北京）生物技术有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "39",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "金福农星创天地",
+      "Unnamed: 4": "北京金福腾科技有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "40",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "志广富庶智慧新零售星创天地",
+      "Unnamed: 4": "北京志广富庶农产品有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "41",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "净菜鲜丰星创天地",
+      "Unnamed: 4": "北京康安利丰农业有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "42",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "垂直孵化星创天地",
+      "Unnamed: 4": "北京农学院",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "43",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "香豆豆星创天地",
+      "Unnamed: 4": "北京香豆豆食品有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "44",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "粮养天下星创天地",
+      "Unnamed: 4": "中粮营养健康研究院有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "45",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "农心匠人星创天地",
+      "Unnamed: 4": "北京立征春雨农业专业合作社",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "46",
+      "Unnamed: 2": "2018",
+      "Unnamed: 3": "富通园艺星创天地",
+      "Unnamed: 4": "北京中农富通园艺有限公司",
+      "Unnamed: 5": "国家级"
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "47",
+      "Unnamed: 2": "2019",
+      "Unnamed: 3": "农信通三农服务星创天地",
+      "Unnamed: 4": "北京农信通科技有限责任公司",
+      "Unnamed: 5": ""
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "48",
+      "Unnamed: 2": "2019",
+      "Unnamed: 3": "功能食品创制星创天地",
+      "Unnamed: 4": "中国食品发酵工业研究院有限公司",
+      "Unnamed: 5": ""
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "49",
+      "Unnamed: 2": "2019",
+      "Unnamed: 3": "中农机星创天地",
+      "Unnamed: 4": "中国农业机械化科学研究院",
+      "Unnamed: 5": ""
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "50",
+      "Unnamed: 2": "2019",
+      "Unnamed: 3": "北菜园有机农业星创天地",
+      "Unnamed: 4": "北京北菜园农业科技发展有限公司",
+      "Unnamed: 5": ""
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "51",
+      "Unnamed: 2": "2019",
+      "Unnamed: 3": "沱沱工社星创天地",
+      "Unnamed: 4": "北京槐香现代农业科技有限公司",
+      "Unnamed: 5": ""
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "52",
+      "Unnamed: 2": "2019",
+      "Unnamed: 3": "蜜蜂大世界星创天地",
+      "Unnamed: 4": "北京京纯养蜂专业合作社  ",
+      "Unnamed: 5": ""
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "53",
+      "Unnamed: 2": "2019",
+      "Unnamed: 3": "生态涵养星创天地",
+      "Unnamed: 4": "北京市门头沟区科技开发实验基地",
+      "Unnamed: 5": ""
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "54",
+      "Unnamed: 2": "2019",
+      "Unnamed: 3": "北京爱农星创天地",
+      "Unnamed: 4": "北京爱农基业科技发展有限公司",
+      "Unnamed: 5": ""
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "55",
+      "Unnamed: 2": "2019",
+      "Unnamed: 3": "京科智宝星创天地",
+      "Unnamed: 4": "京科智宝（北京）农业科技有限公司",
+      "Unnamed: 5": ""
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "56",
+      "Unnamed: 2": "2019",
+      "Unnamed: 3": "华海田园星创天地",
+      "Unnamed: 4": "北京华海田园农业科技有限公司",
+      "Unnamed: 5": ""
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "57",
+      "Unnamed: 2": "2019",
+      "Unnamed: 3": "鑫桃源综合服务体星创天地",
+      "Unnamed: 4": "北京鑫桃源商贸有限公司",
+      "Unnamed: 5": ""
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "58",
+      "Unnamed: 2": "2019",
+      "Unnamed: 3": "顺农星创天地",
+      "Unnamed: 4": "北京市顺义区农学会",
+      "Unnamed: 5": ""
+    },
+    {
+      "Unnamed: 0": "",
+      "Unnamed: 1": "59",
+      "Unnamed: 2": "2019",
+      "Unnamed: 3": "荣涛豌豆星创天地",
+      "Unnamed: 4": "北京荣涛豌豆产销专业合作社",
+      "Unnamed: 5": ""
+    }
+  ]
+}
