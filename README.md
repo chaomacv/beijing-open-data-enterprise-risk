@@ -239,21 +239,21 @@ dataset/非企业数据文件大json/
     │
     ├─→ 路径一：Gemini智能批处理（适合短上下文文件）
     │   │
-    │   ├─→ 读取 CodeGeneratePrompt.txt（提示词模板）
+    │   ├─→ 读取 CodeGeneratePrompt.txt（提示词模板，已写入代码中）
     │   ├─→ gemini_batchThreadPoolExecutor.py（多线程并行处理）
     │   └─→ agent/output_results/xxx_result.json
     │
     └─→ 路径二：定制化脚本转换（适合复杂/大文件）
         │
-        ├─→ 浏览文件名 + 查看前几行内容
-        ├─→ 根据CodeGeneratePrompt.txt编写convert_xxx.py
+        ├─→ 要求agent浏览文件名 + 查看前几行内容
+        ├─→ 根据CodeGeneratePrompt.txt编写convert_xxx.py(定制化转换脚本)
         ├─→ 执行定制化转换脚本
         └─→ agent/output_results/xxx_result.json
     │
     └─→ 路径三：批量通用转换（简单文件快速处理）
         │
-        ├─→ batch_convert.py（智能字段识别，通用映射）
-        └─→ agent/output_results/xxx_result.json
+        ├─→ 略
+        └─→ 略
     │
     ↓
 agent/output_results/ (所有结果聚合)
@@ -312,7 +312,7 @@ agent/output_results/ (所有结果聚合)
 - 需要多字段组合判断或复杂标签映射
 - 数据量超大（几十万条以上）
 
-**处理流程**：
+**处理流程**：(参考）
 
 1. **分析文件结构**
    ```bash
@@ -386,46 +386,15 @@ agent/output_results/ (所有结果聚合)
    python convert_xxx.py
    ```
 
-**已开发的定制化脚本**：
-
-| 脚本 | 功能 | 特殊处理 |
-|------|------|----------|
-| `convert_social_org_nianjian.py` | 社会组织年检信息 | 年检结论映射（合格/基本合格/不合格/年报） |
-| `convert_social_org_eval.py` | 社会组织评估等级 | 5A-1A级标签映射 |
-| `convert_social_org_abnormal.py` | 社会组织活动异常 | 异常名录标签 |
-| `convert_agriculture_base_v2.py` | 农业科技示范基地 | **处理Excel合并单元格** |
-| `convert_yiliao_jigou.py` | 医疗机构信息 | 医院等级映射（三级甲等/二级无等...） |
-| `convert_yibao_dingdian_yiliao.py` | 医保定点医疗机构 | 等级代码转文字（2→三级甲等） |
-| `convert_nongye_chanpin_shengchan.py` | 农产品生产主体 | **多认证标签拆分**（有机/绿色/GAP） |
-| `convert_fengtai_yingji_jiancha.py` | 应急管理局执法检查 | 检查结论分类（合格/不合格/复查合格） |
-| `convert_zhengfu_caigou_hetong.py` | 政府采购合同 | **供应商名称提取** |
-
 ---
 
-#### 路径三：批量通用转换（简单文件快速处理）
+#### 路径三：批量通用转换（简单文件快速处理，这部分内容在企业数据板块实现）
 
 **适用场景**：
 - 文件数量多但结构简单
 - 字段命名规范统一
 - 无需复杂逻辑，只需简单映射
-
-**处理脚本**：`agent/batch_convert.py`
-
-```bash
-cd agent
-python batch_convert.py
-```
-
-**工作原理**：
-- 自动遍历 `dataset/非企业数据文件大json/` 目录
-- 智能识别字段名（名称/代码/标签字段）
-- 基于规则生成通用标签
-- 自动过滤无效记录
-
-**优点**：
-- 无需为每个文件写脚本
-- 适合快速处理大批量简单文件
-
+（略）
 ---
 
 ### 三条路径的选择策略
