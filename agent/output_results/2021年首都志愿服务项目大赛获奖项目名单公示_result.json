@@ -1,0 +1,748 @@
+{
+  "file_name": "2021年首都志愿服务项目大赛获奖项目名单公示.json",
+  "file_tags": [
+    "首都志愿服务项目大赛金奖",
+    "首都志愿服务项目大赛银奖",
+    "首都志愿服务项目大赛铜奖",
+    "首都志愿服务项目大赛创新奖",
+    "首都志愿服务项目大赛提名奖"
+  ],
+  "results": [
+    {
+      "entity_name": "运河星志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "丰台区西罗园街道四路通社区青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "黑暗跑团北京站志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "北京联合大学青年志愿者协会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "北京经济技术开发区志愿者协会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "北京市延庆区长城助老助残志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "中国宋庆龄青少年科技文化交流中心志愿服务总队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "中国航天科工二院25所志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "怀柔区新时代文明实践中心",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "安利北京志愿者协会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "海淀街道红帆党员志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "裕龙三区老党员星火志愿护河队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "门头沟青山绿水青年志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "金隅北水环保志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "中国科学院机关老年志愿者服务站",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "北京科技大学文法学院志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "北京市红十字会造血干细胞捐献志愿者之家",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "建国门街道残联助残志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "北京市大兴区企业志愿服务协会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "西城区展览路街道志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "房山成教中心志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "北京市文化志愿者服务中心首都图书馆分中心",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北京金色年华志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "建行北京宣武支行青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "国网北京城区供电公司共产党员服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "博大建设青年志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北京邮电大学信息与通信工程学院阳光志愿者协会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "中国石油大学（北京）青年志愿者协会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "对外经贸大学金融学院志愿服务团",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北京平安地铁志愿服务运一支队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "石景山青年志愿者协会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "北京市公安局西城分局志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "北京有轨电车西郊线志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "丰台区花乡地区草桥村青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "通州区玉桥街道管城理市志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北京公交青年志愿服务总队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "中国农业大学志愿服务总队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "北京天文馆志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "北京师范大学附属中学志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "北京自然博物馆志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "丰台彩虹消费维权服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "天坛公园志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "中国农业大学动物科技学院志愿者服务支队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "中国古动物馆科普志愿服务分队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "中国人民公安大学校团委志工部",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "中国矿业大学（北京）青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "北京物资学院商学院志愿服务部",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "小V蜂志愿服务团",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "北京石刻艺术博物馆",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "暖暖爱心公益联盟",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北京外国语大学北外学院志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "垂中心劲松雨露志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北师大二附中志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "石景山开心奉献志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "墨墨的祝福志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "大钟寺古钟博物馆志愿服务",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北方工业大学青年志愿者协会经济管理学院分会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "东城区第一图书馆文化志愿服务分队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "中国铁路北京局集团公司丰台机务段青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北京郭守敬纪念馆志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "平谷区大华山镇志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北京航空航天大学志愿者联合会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "怀柔区志愿者联合会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "航天一院义工社",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "西集中学志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "昌平区霍营街道霍家营社区青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "东城区永外街道青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "朝阳群众小河长志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "北京绿娃志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "北京市广渠门中学志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北京市丰台区右安门地区体育协会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "延庆登山俱乐部志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "张仪村小爱志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北京建筑大学环境与能源工程学院青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "“力行践悟”志愿服务团",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北京地坛医院志愿者服务中心",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "首都无偿献血志愿者协会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "北京口腔医院志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "首都儿科研究所志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "BUCM中医学院青年志愿者协会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "北京小汤山医院志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "北京清华长庚医院志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "12355北京青少年心理法律服务热线",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "和医杏林青年志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北京天坛医院志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "朝阳区志愿者联盟",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "广安门医院志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北京市志援应急服务总队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "北京市应急志愿服务总队宣教支队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "北京丰之翼特种设备安全志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "北京市应急志愿服务总队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "北京市西城区众诚聚力社区防灾减灾服务中心",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北京航空航天大学网络空间安全学院志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "北京市消防志愿者服务总队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "雷霆应急救援志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "长腿叔叔信箱志愿者团队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛金奖"
+    },
+    {
+      "entity_name": "朝阳区残联助残志愿服务分队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛银奖"
+    },
+    {
+      "entity_name": "朝实三里屯红领巾",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛铜奖"
+    },
+    {
+      "entity_name": "怀柔区新时代文明实践中心",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛创新奖"
+    },
+    {
+      "entity_name": "西城区青少年儿童图书馆志愿服务分队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛创新奖"
+    },
+    {
+      "entity_name": "北京科普志愿服务总队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛创新奖"
+    },
+    {
+      "entity_name": "海淀区北下关街道交大社区青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛创新奖"
+    },
+    {
+      "entity_name": "北京建筑大学建筑与城市规划学院青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛创新奖"
+    },
+    {
+      "entity_name": "海淀区人民检察院志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛创新奖"
+    },
+    {
+      "entity_name": "青年天文教师连线",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛创新奖"
+    },
+    {
+      "entity_name": "张仪村小爱志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛创新奖"
+    },
+    {
+      "entity_name": "北京市地震应急志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛创新奖"
+    },
+    {
+      "entity_name": "青山派志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛创新奖"
+    },
+    {
+      "entity_name": "东城区东四街道青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "平谷区滨河街道青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "Ameco志愿者协会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "橄榄绿志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "北京市通州区福星残疾人服务中心志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "金剪子艺术志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "对外经济贸易大学信息学院分团委青年志愿者服务团",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "“海心”志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "北京市门头沟区京西志愿服务中心",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "永善社区治安志愿者工作站",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "白鸽青年志愿者协会基础教育志愿者中心",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "光和青春公益服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "北京科技大学机械学院志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "北京市文化志愿者服务中心海淀区分中心",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "通州区图书馆志愿服务分队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "北京市朝阳区青少年活动中心",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "北京红爹之家妇女儿童志愿服务促进中心",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "房山区文化活动中心（房山区图书馆）志愿服务分队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "北京市延庆区妫川志愿服务协会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "北京市清华大学附属中学教育基金会",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "大兴机场志愿者服务团队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "北京交通运输职业学院海淀志愿者联盟",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "金色年华志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "大兴区采育镇青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "海淀区甘家口街道西三环社区青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "通州区潞源街道朗清园南社区青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "北京大学第三医院志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "怀柔妇幼志愿青年",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "鼓楼岐黄志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "北京卫生职业学院药学系",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "中国人民大学青年志愿者协会红十字项目部",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "生命缘志愿服务总队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "阳光综合应急救援志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "北京市蒲公英红十字志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "东城区东花市街道青年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "通州区青少年志愿者服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "北京市海淀区彩虹之家青少年服务中心志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "北京市怀柔区市场监督管理局志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    },
+    {
+      "entity_name": "富力尚悦居社区志愿服务队",
+      "credit_code": null,
+      "tag": "首都志愿服务项目大赛提名奖"
+    }
+  ],
+  "filtered_out_count": 2
+}

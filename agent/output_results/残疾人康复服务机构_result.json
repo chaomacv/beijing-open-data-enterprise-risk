@@ -1,0 +1,44 @@
+{
+  "file_name": "残疾人康复服务机构.json",
+  "file_tags": [
+    "残疾人康复服务机构"
+  ],
+  "results": [
+    {
+      "entity_name": "北京市怀柔区第二医院",
+      "credit_code": null,
+      "tag": "残疾人康复服务机构"
+    },
+    {
+      "entity_name": "北京怀柔中唐医院",
+      "credit_code": null,
+      "tag": "残疾人康复服务机构"
+    },
+    {
+      "entity_name": "北京怀柔信慧残疾人康复服务中心",
+      "credit_code": null,
+      "tag": "残疾人康复服务机构"
+    },
+    {
+      "entity_name": "北京康宁残疾人康复服务中心",
+      "credit_code": null,
+      "tag": "残疾人康复服务机构"
+    },
+    {
+      "entity_name": "北京市怀柔区北房镇卫生院",
+      "credit_code": null,
+      "tag": "残疾人康复服务机构"
+    },
+    {
+      "entity_name": "北京怀柔纪师傅残疾人按摩康复服务中心",
+      "credit_code": null,
+      "tag": "残疾人康复服务机构"
+    },
+    {
+      "entity_name": "北京怀柔信慧残疾人康复服务中心",
+      "credit_code": null,
+      "tag": "残疾人康复服务机构"
+    }
+  ],
+  "filtered_out_count": 3
+}

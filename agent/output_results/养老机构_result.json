@@ -1,0 +1,2845 @@
+{
+  "file_name": "养老机构.json",
+  "file_tags": [
+    "普通养老机构",
+    "养老照料中心"
+  ],
+  "results": [
+    {
+      "entity_name": "北京市东城区银杏舍养老服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市东城区汇晨老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京江山福佰健康养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京昌平区东篱敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市东城区东直门街道养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市东城区景山兆如老年养护中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市东城区北新桥三和老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市东城区天颐养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市东城区康馨园养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市东城区什锦花园养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市东城区前门街道养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市东城区安定门芙蓉养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市东城区建国门街道来德老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市东城区东四街道汇晨老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市东城区天坛兆如老年养护中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京兆如养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市东城区广渠门忠正养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "恒颐复健之家·自如",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市西城区银龄老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市西城区展览路街道敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京金泰颐寿轩敬老院（孔雀分院）",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市西城区广内颐寿园敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市西城区牛街天恒敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "什刹海街道金秋园敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京金泰颐寿轩敬老院善果寺分院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市西城区宝心敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京金泰颐寿轩敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市西城区陶然亭街道敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京华方经典立水桥颐养中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市西城区什刹海宁心园老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市西城区广外怡乐园敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市西城区永春堂颐养中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "大家的家·北京友谊城心社区",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市西城区德胜老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市西城区西长安街西绒线银龄养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区金融街老龄公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区广外老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "德胜街道颐年园敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区展览路街道百万庄养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区广内德馨养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区天桥街道天悦养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区椿树街道国安银柏养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区广安门外街道养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区什刹海街道华方养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区景福颐养照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区白纸坊街道宁心园养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区大栅栏街道养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区广内善果养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区新街口街道福寿轩敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区月坛街道华方养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区月坛街道敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区西长安街街道华方养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "西城区长安养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区展览路国投健康养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区陶然亭宝缘养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区德胜街道爱侬孝亲养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区展览路颐寿轩养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区白纸坊街道颐寿轩养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市西城区什刹海乐老汇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区观音堂益康养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区长友恒苑养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区南磨房乡敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区江达爱心养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区圣泽峰老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区来广营老人乐园",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区金盏乡老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区嘉德老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区康梦圆国际老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区兴爱养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区馨蘭之家老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市第一社会福利院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区三间房地区老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区爱侬养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区垡头社区养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区恭和老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区九九老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京三替养老护理集团有限公司爱如家康养分公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区仁爱敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市福寿老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京椿萱茂北苑养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京汇晨朝来老年公寓有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市华医堂居家养老服务有限责任公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "双桥恭和苑",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区福祐养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市朝阳区来广营福寿苑养老公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京泰和养老服务产业发展有限公司朝外吉庆分公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区缘爱康宸养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京丽湾养老服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区六里屯街道益智康护养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京首开寸草养老服务有限公司望京分公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区博爱为老服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区英智老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区太阳宫老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区光明山老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京金隅爱馨泰和养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京光熙国际养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区长友养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区恒春老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区康辉老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区团结湖社区暮年颐乐园",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区东方综合养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区酒仙桥乐居老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区首开寸草养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区彩虹村庄养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "乐成老年事业投资有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区垡头街道寸草春晖养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区福寿苑养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京汇晨古塔老年公寓有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区安贞怡园养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区劲松老年家园",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区潘家园老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京颐康养老服务中心（有限合伙）",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区颐养天合管庄老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京金隅养老产业投资管理有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区爱晚桑榆养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区亚运村老年家园",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京来广营国际老年公寓有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区健生养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区佰康老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京首开寸草养老服务有限公司朝阳分公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京泰和养老服务产业发展有限公司朝阳豪成分公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区弘善家园养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区汇晨老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区恒春绿景老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区东坝福寿苑养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区安华怡园养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区三里屯老年家园",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区恒阳老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "康语轩养老服务（北京）有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京首厚康健永安养老有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "远洋养老运营管理有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区恒爱养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区建外老年家园",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京吉祥苑养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京兆和养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区望京街道寸草春晖养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区香河园福寿苑养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区将台福寿苑养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市朝阳区呼家楼福寿苑养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区双缘敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区益康敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区车耳营养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市第四社会福利院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区爱德敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区四季青镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区杏林敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区东岳老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区阳台山老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区有福敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区翠湖庄园敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀蓰赢老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京海淀龙泉老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区万福年华稻香湖养护院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京椿萱茂西山养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区益寿福老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区苏家坨镇北安河敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区海峰老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区金宇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区永福养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区聂各庄敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区千禾敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀乐老汇养老中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区清河敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区万寿老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区纳兰园老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区爱暮家养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区和熹会老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市海淀区八里庄首开寸草养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京椿萱茂环都养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京星健养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区温泉镇敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区玉渊潭乡敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区万寿阳光老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区羊坊店敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区上庄镇敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "海淀甘家口养老服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区苏家坨镇柳林养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区有颐居中央党校养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区马连洼养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区清河安宁养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区凤凰老年养护院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京海淀育新养老服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京青城养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区学院路优护万家养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区清心居养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区北太平庄冶建老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区广源长青养老中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区国利来养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区曙光久久泰和养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区清顺静和养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区曜阳养老服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区学院路寸草春晖养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区上地华录风华养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京泰和养老服务产业发展有限公司第一分公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区爱达颐德老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市海淀区北下关久久泰和养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区颐海园养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市丰台区馨园老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市丰台区卢沟桥社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市丰台区天颐养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市丰台区南苑社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市丰台区爱心敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市丰台区康乐社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市丰台区泰颐春养老中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "新华家园养老服务（北京）有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京椿萱茂玉蜓桥养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京光大汇晨看丹养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市丰台区润龄养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京易阳养老产业发展有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京福康家园养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "纳兰雅竹（北京）养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区五福养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京椿萱茂青塔养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区王佐老年综合服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区安怡欣养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区康助护养院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区福康家园养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "航天医疗健康科技集团有限公司北京颐养家园第一分公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区福海盛世养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区右安门翠林敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区民族养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区养合老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区西罗园街道意馨夕阳乐苑",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区看丹老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区颐年堂养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区六圈养老中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区幸福里养老中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京怡海优佳国际养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区嘉祥敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区澄怀源养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区泰和鑫养老康护中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区颐和养老公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京首开寸草养老服务有限公司马家堡分公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区皓春里老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区颐康养老照护中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京普亲春风养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区茗芝苑养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市丰台区颐安养老照护中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京华辰联众科技有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "爱天养老服务（北京）有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京幸福颐养护理院有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市石景山区民族养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市石景山区寿山福海养老服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市石景山区老年福养老服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市石景山区社会福利院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市石景山区慈善寺敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市石景山区民族养老院五里坨分院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京海航嘉盛养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京金隅爱馨滨和养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市石景山区颐和康泰养老护理院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市石景山区春晖颐老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市石景山区乐龄养老服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市石景山区孝和居养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市石景山区鲁谷和悦会养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市石景山区老山养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京京康古城养老服务有限公司（石景山京康古城养老照料中心）",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市石景山区颐和康泰养老护理院（石景山颐和宜林养老照料中心）",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京清颐敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市门头沟区雁翅镇社会福利中心（敬老院）",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市门头沟区清水镇社会福利中心（敬老院）",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市门头沟区爱暮家老年养护中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市门头沟区妙峰山镇社会福利中心（敬老院）",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市门头沟区潭柘寺镇社会福利中心（敬老院）",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市门头沟区王平镇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市门头沟区斋堂镇静馨养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市门头沟区沁心园养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市门头沟区龙泉镇宁馨养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京京煤集团总医院（门矿养老照料中心）",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "潭柘闻香老年养护中心（养老照料中心）",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京缘山福海养老有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市松鹤养老院有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区大安山乡社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京泰和睿园养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京宁心园康养产业有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京长阳普乐园爱心养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区琉璃河红叶老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区佛子庄乡敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区蒲洼乡敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区窦店镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区燕山养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区同年华养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区拱辰街道社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区厚泽养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区十渡镇社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区琉璃河镇国立老年福利院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区西潞街道社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区霞云岭乡敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区丽昆老年护理院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区康怡养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区夕阳红托老所",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区城关街道办事处敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区琉璃河镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区青龙湖镇社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区小康之家养老服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区周口店镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京雅布伦养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京永安西里养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区随园养老中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区韩村河镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市房山区大石窝镇社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "石嘉康泰康护养老中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京隆康养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京小康颐养养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "大石窝镇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市房山区河北镇敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市房山区金海老年服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市房山区良乡镇福港老年服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市房山区迎风街道养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市房山区天毓山庄养老服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市房山区燕山龙振星城老年家园",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市房山区西潞街道养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市房山区燕山乐老汇养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市房山区拱辰街道颐慈园养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市房山区国爱老年人服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京康益养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市房山区石楼镇老年社会福利院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市房山区弘远慈航养老服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "燕山向阳养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京清颐林养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市房山区长阳镇小康之家养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京颐年护老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市通州区台湖镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市通州区宋庄镇徐辛庄敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市通州区梨园敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市通州区西集镇郎府敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市通州区马驹桥镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市通州区永顺镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京云海腾飞铸造有限责任公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市通州区宋庄镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市通州区马驹桥镇第二社会福利服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京居之福健康管理有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市通州区于家务回族乡三乐养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京利德莹工贸有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市通州区三乐康复老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京金隅爱馨通和养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市通州区漷县镇社会福利中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京博瑞芳华养老服务有限公司盛悦分公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市通州区潞城敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市通州区永顺镇静心养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市通州区张家湾镇环湖养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市通州区北苑街道养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市通州区台湖镇圣哲养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京远创椿和养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市顺义区喜洋洋老年休养所",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市顺义区第一社会福利院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市养老护理照料示范中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京京能颐寿轩康养有限公司东竹园分公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市顺义区家泰养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市顺义区大孙各庄镇汇春养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市顺义区和悦养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市顺义区金龙湾养老服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市顺义区龚平生态养生园",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市顺义区仁达养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市顺义区北小营镇敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市顺义区六福全营养老服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市顺义区牛栏山镇敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京浅山天天禧养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市顺义区旺泉街道家合养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市顺义区南彩乐家养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市顺义区金李桥养老服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京玖零长乐居家养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市顺义区双丰丽园养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市昌平区金悦颐养中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市昌平区后花园养老服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市昌平区沙河镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "昌平区流村镇人民政府敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市昌平区汇晨老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京昌平玉福园敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市昌平区十三陵镇老人服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市昌平区十三陵镇长陵敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京太申祥和山庄（国际敬老院）",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市昌平区阳坊镇福禄寿敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市昌平区南口镇桃洼敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市昌平区新生活敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市昌平区南口镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京太阳城银龄老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市昌平区阳光惠康老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "泰康之家燕园（北京）养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市昌平区爱地老人颐养中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市昌平区回龙观镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京昌平安乐祥居老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市昌平区含饴老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京九华养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市昌平区首开寸草养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京天通大爱养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京天德老年服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京千禾一家养老服务有限责任公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京慷宁养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京天通国际社区服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京千禾颐养家苑养老服务有限责任公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京金手杖养老股份有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京阳光金宇养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "昌平区流村镇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市昌平区乐心苑颐养中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市昌平区城北街道敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市昌平区十三陵镇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市昌平区兴寿镇敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市昌平区老年养护中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京龙脉养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市昌平区鸥情老年颐养院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京家泰养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市昌平区阳光之城养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市昌平区俏夕阳养老服务中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市昌平区安泰民信老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "昌平区沙河镇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京天通国际养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "昌平崔村镇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市昌平区史各庄街道养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京盈福老年公寓有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京椿萱茂凯健养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区弘福达养老服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区安泰老年护养院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区榆垡镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区林校路街道老年人服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区青云店镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区福海老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区社会福利院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "中晟百晨（北京）国际康养有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区仁康养老服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区采育镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区庞各庄镇社区社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区寿山福海养老服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区虹枫老年护养院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区万邦和谐养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京一福寿山福海养老服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区长子营镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京中恒华康养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区绿康源老年护养院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区魏善庄镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市大兴区泰福春老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "华润置地开发（北京）有限公司第二分公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京普祥老年公寓有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京天天红居家养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京卫华养老院有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区长子营镇照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区林校路街道养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区旧宫镇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区榆垡镇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区礼贤镇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京亦和居养老服务管理有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区福提园养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区颐乐养老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区黄村镇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区安定镇敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区采育镇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区天宫院街道养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区兴丰街道养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区清源街道养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区亦庄养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京国基昌盛投资管理有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "华润置地开发（北京）有限公司第一分公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区瀛海镇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "大兴区西红门镇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区青云店镇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市怀柔区渤海镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市怀柔区琉璃庙镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市怀柔区宝山镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市怀柔区桥梓镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市怀柔区长哨营满族乡敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市怀柔区九渡河镇养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市怀柔区怀柔镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市怀柔区喇叭沟门满族乡敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市怀柔区汤河口镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市怀柔区北房镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京怀柔幸福里养老中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京悦之府养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京语高国际健康管理有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京怀柔怀柔镇安馨敬养养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京怀柔康宁养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京怀柔联建老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市怀柔区杨宋镇敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市怀柔区雁栖镇敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京怀柔渤海镇鸿德慈养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京怀柔北房镇和美安吉养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京怀柔爱侬养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市平谷区迎金康老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区温暖之家老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区熊儿寨乡敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区兴谷老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区金阳老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区山东庄镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区怡馨老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区兴龙老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区吉祥老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区刘家店镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区黄松峪乡敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区阳光老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区合家老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区康德馨养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区顺新老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区敬朋福利院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区颐佰年老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区古槐之家老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京康泰居安养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市平谷区南独乐河镇敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市平谷区泰和永康老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市平谷区东方龙昌老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市平谷区子山福缘老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京爱助夕阳养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市平谷区乔松老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市平谷区东安仙居老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市平谷区骏隆老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市平谷区安心之家老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京即刻到家服务科技有限公司兴昊分公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市密云区行宫爱心养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区行宫福乐养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区福泰康敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区金正福寿敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区长寿春敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区古春敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区大城子镇社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区益寿敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区纳洪福敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区北庄镇社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区石城镇社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区永春养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区高岭镇社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区和颐园养老服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区东邵渠镇社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区太师屯镇社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区福寿苑养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区老年乐养老服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区新城子镇社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区仁孝养老护理中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区康乐寿养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区巨各庄镇社会福利中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区瑞福隆安养老服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区行宫如家养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区行宫安霞养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市密云区冯家峪镇社会福利中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市密云区西田各庄镇社会福利中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市密云区河南寨镇社会福利中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市密云区十里堡镇社会福利中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市密云区溪翁庄镇社会福利中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市密云区不老屯镇社会福利中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市密云区鼓楼街道社会福利中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "密云镇社会福利中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市密云区太师屯镇养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "密云区檀营养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京大庄科夕阳红养老服务中心",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市延庆区天开瑞祥养生养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市延庆区同馨乐养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市延庆区温馨之家养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市延庆区聚缘养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市延庆区夕阳红养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市延庆区延年敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市延庆区永聚养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市延庆区益寿苑老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市延庆区敬善养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京市延庆区光荣院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京妫川相伴养老服务中心（普通合伙）",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京寸草春晖妫川养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "新华家园养老运营管理（北京）有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "北京顺雅乡情缘养老服务有限责任公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市延庆区井庄镇敬老院",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京华夏厚德养老中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市延庆区瑞康缘老年养护中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京圣人居养老服务有限公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市延庆区瑞康缘百泉养老照料中心",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京君信康养老服务有限公司天成家园分公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京君信康养老服务有限公司儒林分公司",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京市大兴区爱壹家老年护养院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    }
+  ],
+  "filtered_out_count": 0
+}

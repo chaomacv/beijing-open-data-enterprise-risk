@@ -1,0 +1,6674 @@
+{
+  "file_name": "零售药店基本信息2023-03-29.json",
+  "file_tags": [
+    "29"
+  ],
+  "results": [
+    {
+      "entity_name": "北京京东仁康大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司东兴金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京惠全堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂崇文门药店有限责任公司分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京六合堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京五洲全新长春堂医药有限公司花市南庆仁堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉润福康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市康中福大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司永定门连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司和平里连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永安堂医药连锁有限责任公司北京站药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京亚泰永安堂医药股份有限公司王府井医药商店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永安堂医药连锁有限责任公司安外药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司磁器口分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永安堂医药连锁有限责任公司十条药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司安德路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永安堂医药连锁有限责任公司朝内药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永安堂医药连锁有限责任公司交道口药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永安堂医药连锁有限责任公司八条药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永安堂医药连锁有限责任公司宏仁堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第十二药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司永外连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司打磨厂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司幸福大街药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康广生堂大药房有限公司忠实里分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永安堂医药连锁有限责任公司东直门内药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永安堂医药连锁有限责任公司朝内北小街药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京天润康名敦道中西大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永安堂医药连锁有限责任公司北新药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永安堂医药连锁有限责任公司和平里药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永安堂医药连锁有限责任公司百草药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德信行医保全新大药房有限公司安定门店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉事堂连锁药店有限责任公司骑河楼街药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司东内金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京五洲全新长春堂医药有限公司前门长春堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京五洲全新长春堂医药有限公司天坛万全堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂崇文门药店有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京祥安堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市利君堂大药房连锁有限公司宽街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京天润堂大药房东城小街桥分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百年福大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百洋汇康智慧药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京海王星辰广渠门大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京麦德凯大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司安定门店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京长春堂药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百信万芝堂医药有限责任公司磁器口分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京海王星辰药房连锁有限公司东单北大街店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司崇文连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京协和精细化学制品有限公司协和大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京龙华康健大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华威京药医药有限公司第十六分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京海王星辰体育馆路药房有限公司夕照寺分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司安定门分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司安乐林中街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司灯市口分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司东单分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司青年湖分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂苏州街医药有限责任公司东城东直门药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京阳光一生医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂苏州街医药有限责任公司东城东四十条药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司珠市口分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司天坛南门分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康素心大药房有限公司交道口分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康广生堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康宽街大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康中福健大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京白塔寺药店东单医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市利君堂大药房连锁有限公司东四分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市利君堂大药房连锁有限公司和平里分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永安堂医药连锁有限责任公司东单药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司美术馆东街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京兴事堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第三十店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康江风大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市利君堂大药房连锁有限公司蒋宅口分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京白塔寺药店连锁有限公司北河沿分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德盛康大药房有限公司第十七分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第五十八店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第四十五店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第四十店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市利君堂大药房连锁有限公司北河沿分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德惠堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京恒创天保堂医药有限公司车公庄店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司展览路金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德威治医药连锁有限责任公司北太平庄大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司绒线胡同连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市宣内药品有限责任公司真武庙金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司马甸金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京新兴德胜连锁药房有限公司鼓楼店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京泰瑞堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象复星医药股份有限公司白塔寺药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京鹤年堂医药有限责任公司广安门药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司第十五分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京白云路金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象复星医药股份有限公司复兴门金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市汇仁堂荣丰药店有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京京城虎坊路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司新街口药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司西四北金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康仁金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司阜外分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司西单金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司长安街药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司月坛南街金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂商业投资集团有限公司同仁堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司月坛北街金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司和庭药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健安仁和医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市圣德堂国药中心",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司和平门金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司南线阁连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司新街口金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京草木良方连锁大药房有限公司新街口店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司黄寺药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司地外金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京润帅堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁博大药房有限责任公司永安路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京新兴德胜连锁药房有限公司新街口店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德信行医保全新大药房有限公司白塔寺店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京天天好大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司平安里药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司陶然亭连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司阜外金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市利君堂大药房连锁有限公司太平街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司西直门内金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百姓阳光大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京正济堂药品连锁超市有限责任公司天桥店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司宣武药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京晟君堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德信行医保全新大药房有限公司红莲店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁生堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百姓阳光大药房有限公司白纸坊店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司三里河万方药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第十六药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康明安堂医药有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京太和保兴大药房有限公司半步桥店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司东经路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司达官营分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司三里河分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市利君堂大药房连锁有限公司新街口分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好药师大药房连锁有限公司马连道店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市丰汇园金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康天顺康大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康康健大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司白云桥分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司西便门大街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司东经路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司广安门分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康恒康大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司日斤立金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司广安门店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京白塔寺琪卉堂药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司月坛西街金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司南纬路金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京普安阜成门药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司积水潭金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司二龙路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京瑞华堂金象大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司阜外分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第七药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永顺金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司北礼士路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康睿安堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京圆心康健大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司前门分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京安仕医药销售有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京鹤安长泰大药房有限公司广外红莲店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第四十七店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司百万庄分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司红莲南路金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁博大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京天保堂广仁大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司经海路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司十里河药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂建国门大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京三九朝阳医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司南磨房药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京三九朝阳医药有限公司东大桥药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂盛平药店有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市康中福大药房有限公司朝阳北路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂润丰医药有限公司东坝药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东方康盛大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京乐普护生堂网络科技有限公司第一药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司松榆里药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司管庄药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂施小墨医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德威治医药连锁有限责任公司劲松大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂润丰医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司红庙药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京达慧堂弘景医药有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京养生堂药店有限公司北沙滩药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司安贞分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京三十六号医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康广生堂大药房有限公司广外分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司南磨房分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京达慧堂方家村药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京望京堂金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京养生堂福春药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "嘉事堂药业股份有限公司北京团结湖药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂京北企业管理有限公司朝阳北路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂润丰医药有限公司利泽西街药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "嘉事堂药业股份有限公司北京顺源里药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京五洲全新医药有限公司弘善长春堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京鑫康济堂大药房有限公司一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京叮当智慧朝霞大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康大药房有限公司广顺街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京鑫康济堂大药房有限公司将台店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康素心大药房有限公司百子湾分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康素心大药房有限公司广渠路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康素心大药房有限公司朝阳朝外分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市康中福大药房有限公司湖光中街店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康素心大药房有限公司新房路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂北苑双营药店有限责任公司望京药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司双井分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京必康医药连锁有限公司望京店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司八里庄金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "嘉事堂药业股份有限公司北京呼家楼药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京燕京大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司花家地分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高碑店天保堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉事堂连锁药店有限责任公司西坝河南药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康大药房有限公司新源里分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京叮当智慧小营大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第五店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市京芝堂东旭大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司望京西分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第三十五店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第三十一店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂京北企业管理有限公司北苑东路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司大屯路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京乐普护生堂网络科技有限公司第七药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京望京金象大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世纪本草大药房有限责任公司大屯店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司第四分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司左家庄连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德民堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康大药房有限公司青年路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司大郊亭分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司延静里分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司芍药居分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康大药房有限公司北苑分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司朝外分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司高杨树分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司甜水园分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司熊猫环岛分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂北苑双营药店有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康大药房有限公司白家庄分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京益延堂大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济新世纪好一生大药房有限公司十里堡分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德康金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京普惠堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京天保堂医药有限公司天保堂弘燕药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司花家地金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司芍药居连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京老君堂金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京迎松堂好药师医药有限责任公司朝阳第三分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司第十分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济新世纪好一生大药房有限公司豆各庄分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济新世纪好一生大药房有限公司第一分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康大药房有限公司管庄分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司第二分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司宏泰东街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司劲松连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂京北企业管理有限公司北沙滩药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永裕大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁(北京)有限公司第十七分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京北纬紫阳金象大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康益通堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司第一分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司蓝堡华贸连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京瑞景堂大药房有限公司朝阳分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百好堂医药经营有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司水星园连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京宝莲堂宝益药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济新世纪好一生大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康安立路大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司朝阳南湖中园连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京海王星辰药房连锁有限公司劲松店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "嘉事堂药业股份有限公司北京樱花园东街药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京正济堂药品连锁超市有限责任公司潘家园店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司小红门分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京寿春堂药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德威治医药连锁有限责任公司双井大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司东苇路连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德信行医保全新大药房有限公司松榆里店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司和平街连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京海王星辰药房连锁有限公司常营店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京天惠金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市双桥燕京中药饮片厂垡头药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京鹤寿堂药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司东方盛鑫连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京正济堂药品连锁超市有限责任公司亚运村店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京常和堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百姓康利大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司胜古苑连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京佰健医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京麟康利民医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司建华南路连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司定福庄连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百信德康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司酒仙桥连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仟草堂大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉乐利百子湾医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂复兴路药店有限公司亮马河店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康泽润堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德信行医保全新大药房有限公司甜水园北里店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德信行医保全新大药房有限公司京顺东街店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京搜药千鹤大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京四季堂大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京正济堂药品连锁超市有限责任公司太阳宫店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司十里河店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司樱花园分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司呼家楼分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司小营东路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司雅宝路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司九十二分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司酒仙桥分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司南沙滩分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司垡头分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司甜水园分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京肖瘤大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云初心福康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司花家地分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司惠新北里分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司将台路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京元康堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云初心金羽鹤大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云初心佳慧药店（普通合伙）",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京宝霖堂医药有限公司十七分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康到家医药有限公司高家园药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京济民康泰蕾沣大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德众普康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京兴隆天保堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京济民康泰大药房有限责任公司朝阳第八分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司第三十五分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康大药房有限公司第一二九分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康大药房有限公司第一五二分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康儿研商贸有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京宝芝堂福郡医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康大药房有限公司第七十九分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金禾堂医药有限公司金蝉北路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京益通堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京海王星辰双井药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云初心枫林医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司第一百零四分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司第五十二分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好药师开心劲松大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁(北京)有限公司第三十八分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京酒仙桥金象大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司双井店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司弘善路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康大药房有限公司第一二三分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好药师开心青年汇大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂京北企业管理有限公司东三环药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京亿力阳康博大医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京大地阳光医药经营有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司望京西园分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第八十二店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京海王星辰药房连锁有限公司东坝店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "良方药业有限公司北京健康云初心汇康大药房分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司三里屯分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司常营分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康大药房有限公司甘露园分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第九店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司朝阳一店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第三十四药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第十一药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第八十八店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房平乐园分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司高井分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第四十六店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第三十八店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司博大路连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第六十五店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第六十三店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司第十六分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京普安康健关东药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司垂杨柳店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司第四十四分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康大药房有限公司第一三一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京亿力阳康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京定福庄金象大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司朝阳路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "国药新特药房（北京）有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好药师大药房连锁有限公司朝阳路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁(北京)有限公司第五十九分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市福润众生大药房有限公司十六分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康和瑞大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康劲松桥大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市福润众生大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京朝望金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京新兴德胜连锁药房有限公司立水桥店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京怡信金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第五十三店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第五十店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京平安乐润竹安贞药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司豆各庄分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉乐利向日葵医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康景仁堂医药科技有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司平乐园店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康素心大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康到家医药有限公司东坝药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司北沙滩分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京京通泰康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京景仁堂安泰医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京景圣堂医药发展有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司第三十分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京福庆堂医药有限责任公司菜户营药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康医药有限公司丰台南宫店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京天安堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京云芝堂鑫黄浦医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京鼎好康泰医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂润丰医药有限公司槐房药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司光彩路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京云百华隆金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京鑫兴金象大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京信海科园大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康广生堂大药房有限公司光彩北路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京丹济堂博宇爱心医药有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华海康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市弘济药店有限公司小屯分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京天保堂大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京太和保兴大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康广生堂大药房有限公司六里桥分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司丰管路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百姓阳光大药房有限公司方庄店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康健康大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司爱康金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京医保中洋大药房有限公司六里桥分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司马家堡东路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司五里店分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金卫金象大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司天利金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司方庄南路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司三营门药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司六里桥金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京鼎好康盛大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司丰益桥连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百草堂华夏大地医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京临泓路金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京玉泉平安金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京圆心大药房连锁有限公司丰葆路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德信行医保全新大药房有限公司赵公口店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京马家堡天安堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂南三环中路药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉致堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第一药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第八药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司刘家窑药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "坛泽康大药房（北京）有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百信万芝堂医药有限责任公司新宋家庄分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百信万芝堂医药有限责任公司万丰路分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂苏州街医药有限责任公司丰科园店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京广德康大药房有限责任公司马家堡店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京纪家庙广德康大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京广德康大药房有限责任公司万年花城店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京广德康大药房有限责任公司赵辛店店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永旭堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京海王星辰体育馆路药房有限公司方庄南路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好药师中友汇大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京海王星辰药房连锁有限公司大红门西路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京合盛康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京恒仁福康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国善堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华威京药医药有限公司第二十七分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百姓阳光大药房有限公司花乡店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市佳乐安泰医药有限公司第九店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同德堂药店有限责任公司小屯分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华威京药医药有限公司第十分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康众惠堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司梅市口分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司沙子口分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华威京药医药有限公司第二十五分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司云岗路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华威京药医药有限公司宋家庄店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华威京药左安门医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华威京药医药有限公司第十八分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康卓越医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百姓阳光大药房有限公司马家楼店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云初心佳安医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云初心云岗大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市利君堂大药房连锁有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德笑堂好药师医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好药师大药房连锁有限公司西马场店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京养生堂药店有限公司樊羊路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京鸿济源医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司小屯西路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第七十二店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司双林东路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司云天金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京蕾沣医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司五圈路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康博仁堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康江风大药房有限公司东高地分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康棘津堂医药有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京双祥天保堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康康宇医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京元亨利康大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康心德庆成大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康医药有限公司丰台王佐店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京草木良方连锁大药房有限公司丰台草桥东路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京太和保兴大药房有限公司芳星园店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京鹏鸿堂好药师大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康江风大药房有限公司丰桥路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京广年堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京正济堂药品连锁超市有限责任公司杜家坎店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京三阳传智信息咨询有限公司北京大药房分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京太和保兴大药房有限公司大成路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司卢沟桥分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康棘津堂医药有限责任公司岗洼药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康博仁堂医药有限公司樊羊路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司丰台南路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司马家堡分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司太平桥分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司科兴路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好药师大药房连锁有限公司和义西里店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司方庄店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京鼎好康泰医药有限公司第一分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京凯尔康大药房有限责任公司公益西桥分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司东大街店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云医药连锁有限公司顺义一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司阅园分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京凯尔康大药房有限责任公司角门分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京天安堂医药有限公司第九分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司六里桥连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京鼎好百年大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康青塔医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明医堂医药有限公司木樨园店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "嘉事堂药业股份有限公司北京嘉事堂仙仁堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "良方药业有限公司北京健康云南宫大药房分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司靛厂路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京新兴德胜连锁药房有限公司马家堡店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司草桥欣园金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京宝芝堂伊坤医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京圆心大药房连锁有限公司八角北里店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市弘济药店有限公司益德堂分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云初心惠友堂药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉事堂连锁药店有限责任公司八角北路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司鲁谷金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京时珍堂金鹿大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京乐顺堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市弘济药店有限公司第三分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "嘉事堂药业股份有限公司北京永乐药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京顺安堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司古城金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "嘉事堂药业股份有限公司北京八大处药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉事堂连锁药店有限责任公司古城路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京圆心大药房连锁有限公司十万平店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健益堂大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云初心京源仁康药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京源通百姓平安大药房有限公司第二十五分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京医保中洋大药房有限公司八大处分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京圆心大药房连锁有限公司古城西路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京汇聚堂医药科技有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康景城医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司古城南里分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司古城分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康八角医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康草堂医药",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "双锦园15号楼底商",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京新潮阳大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京亿力阳康医药有限公司第五分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市民生药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第二十店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第二十八店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第三十六店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京新兴德胜连锁药房有限公司石景山店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第九十三店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京达慧堂医药有限责任公司海淀第十三分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京恒创天保堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司北太平庄药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京养生堂佗兴堂药店有限公司上地十街分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司后沙涧金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司远大路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德信行医保全新大药房有限公司会城门店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司北京同仁堂时珍药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司上园金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京天天好大药房有限公司远大路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂京北企业管理有限公司航天城店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好一生宁康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京达慧堂医药有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京养生堂佗兴堂药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京养生堂平骥堂药店有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司牡丹园药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉事堂连锁药店有限责任公司恩济庄药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司西站北广场药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第五药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京皂君庙金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司辛店金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉事堂连锁药店有限责任公司四季青药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德信行医保全新大药房有限公司北航路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德信行医保全新大药房有限公司保福寺店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德信行医保全新大药房有限公司西翠路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京新兴德胜连锁药房有限公司韩家川店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉事堂连锁药店有限责任公司万柳药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司国致蓟门桥店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京正济堂药品连锁超市有限责任公司海淀小营店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第十五店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉事堂连锁药店有限责任公司半壁店药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司国致大运村店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉事堂连锁药店有限责任公司普惠桥药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京医保中洋大药房有限公司永定路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司高粱桥药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司西站药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京养生堂药店有限公司中关村南路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司清华园药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京广德康大药房有限责任公司彰化路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司世纪城药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉事堂连锁药店有限责任公司广通苑药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京养生堂药店有限公司万寿路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百济堂大药房有限公司清河分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂四通桥药店有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京达慧堂医药有限责任公司海淀第三分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司中关村北大街药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京达慧堂医药有限责任公司海淀第五分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司国致宝盛里店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司牡丹园店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德厚康医药有限责任公司清河大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "方寸泉香（北京）科技有限公司大药房分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康阜成路大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂京北企业管理有限公司上地药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉事堂连锁药店有限责任公司玉泉路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司学清路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第二十七店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京圆心北三药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第二药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司金沟河连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司万丰路金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京荣英堂大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京济安堂药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京宏瑞堂大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京养生堂同道堂药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京颐乐堂好药师大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国大药房连锁有限公司太月园连锁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京正济堂药品连锁超市有限责任公司海淀建枫路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京爱心伟业大药房有限公司一店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京福鸿金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂京北企业管理有限公司清河店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京达慧堂医药有限责任公司海淀第二分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂京北企业管理有限公司永定路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "国准健（北京）医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京医保中洋大药房有限公司前八家分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华威京药医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百泽康大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康敬安堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京阜石路金象大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京养生堂药店有限公司上庄药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司上地分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司苏州桥分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京天保堂杏坛医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京惠景堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司永泰庄分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京汇聚堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司知春路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司中关村大街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京养生堂药店有限公司北土城路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "国准健（北京）医药有限公司海淀分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京天保堂万泉医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司知春路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同德堂药店有限责任公司成府路分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京惠兴堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京济民康泰大药房有限责任公司永定路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京福仁堂医药经营部",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京福仁堂鑫海医药有限公司第一分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京福仁堂鑫海医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司林业大学北路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云初心创客优选医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京圆心妙手大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京吉德仁康医药有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司学院路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康万福堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司紫竹桥店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京济民康泰大药房有限责任公司海淀第十一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京邻客大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司保福寺分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京宝芝堂平安医药有限公司第十一分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云初心大有庄智选医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云初心太舟坞严选医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁寿堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京福寿堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德厚康医药有限责任公司五分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德厚康医药有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司学院南路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京林生堂康泰景弘大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司王庄路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "普安美德（北京）药房有限公司北清路药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京正济堂药品连锁超市有限责任公司花园路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京友康堂大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京翠微康玉药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司大柳树分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司唐家岭分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京安泰堂药品有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司清河小营分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司五棵松分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司双槐树分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第五十八药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第四药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第六十八店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第十五药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司西翠路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康大药房有限公司莲宝路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康利民康泰医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司第三十三分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司第四十六分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京宝芝堂郡朝医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司第十一分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永丰堂大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济新世纪紫竹桥大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司花园北路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康上庄医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司德政路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京医保中洋大药房有限公司田村分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京佳昊堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京新兴德胜连锁药房有限公司学院南路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第四十八店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康素心大药房有限公司厢黄旗分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康到家医药有限公司第五药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京新兴德胜连锁药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司第二十九分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京亿力阳康恩济医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京广德康大药房有限责任公司第二销售分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京广德康大药房有限责任公司蓝靛厂路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京广德康大药房有限责任公司丽园北路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德盛康大药房有限公司第十分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德盛康大药房有限公司第二分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京恩济世康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京京西善和医药投资有限公司石门营店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司梧桐苑分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京医保中洋大药房有限公司新桥分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市弘济药店有限公司第九分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂善和医药有限公司大峪药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂京西药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂善和医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京达因仁大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京养生堂药店有限公司中门寺街药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京灵芝康健大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康宝青医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康同熙堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司滨河路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司霁月园分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第五十七店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京广德康大药房有限责任公司大宁山庄店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康兴国太民安医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京天天好瑞圣渲大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司坨里药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "嘉事堂药业股份有限公司北京阎村药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "嘉事堂药业股份有限公司北京河北镇药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "嘉事堂药业股份有限公司北京兴月平安药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司青龙湖西街药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康馨恒康大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "嘉事堂药业股份有限公司北京圣福兴药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司房山药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京医保中洋大药房有限公司燕山分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京众生惠康大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康达惠民大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京正济堂药品连锁超市有限责任公司燕迎城店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京正济堂药品连锁超市有限责任公司燕阳城店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京乐普护生堂网络科技有限公司第三药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永和堂药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司琉璃河药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司良乡药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京甘霖堂大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "嘉事堂药业股份有限公司北京十渡药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司官庄药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司瑞雪春药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "嘉事堂药业股份有限公司北京张坊药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司官道药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永生堂医药连锁有限公司第二药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司政通平康药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永生堂医药连锁有限公司第一药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司南区兴礼药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京医保中洋大药房有限公司良乡分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康鑫金都医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司西潞北大街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康半岛医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康医药有限公司阜盛大街店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康金街医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康益寿大药房第一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京尧家堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德汇民医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永生堂医药连锁有限公司第七药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永生堂医药连锁有限公司第十药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永生堂医药连锁有限公司第五药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永生堂医药连锁有限公司第十二药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好益康大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好益康大药房有限公司第一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永生堂医药连锁有限公司第六药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉瑞堂金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京民声鑫缘医药有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京盛夏安康商贸有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司政通路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司长虹东路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司阎村分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京常春堂医药有限责任公司第一分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第八十一店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京利民永盛商贸有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司益安药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司西门药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司城关药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益新加州药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司济康药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益康安药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司房窑路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司济诚药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司济荣药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司益心药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司于庄药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司怡和北路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司济和药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司万窑路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁德益医药连锁有限公司济福药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京奕和维康医药有限公司关辛庄店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京奕和维康医药有限公司第一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京瑞福康医药有限公司西马庄店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京瑞福康医药有限公司好药师苏坨药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京瑞福康医药有限公司三元村大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京瑞福康医药有限公司西潞园药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京瑞福康医药有限公司杨庄药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司周营分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司玉桥北里分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司运河大街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京瑞福康医药有限公司物院路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司通州药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司梨园街药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第十三药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司日新东路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司新城药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京奕和维康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京医药通州医药公司第一营业厅",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云汉丹堂医药有限公司疃里分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云汉丹堂医药有限公司府东苑分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司三间房分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京瑞福康医药有限公司土桥店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京奕和维康利民医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京益乐堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司九棵树药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司通朝大街药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第三十一药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京宝瑞堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金禾堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司九棵树东路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁博思维特大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司芙蓉东路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京恒仁安康医药有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司大营金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司土桥中街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司玉桥中路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司土桥分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司马驹桥分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司景盛北一街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京海王星辰通达药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金禾堂医药有限公司六店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金禾堂医药有限公司通胡大街店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金禾堂医药有限公司七店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金禾堂医药有限公司五店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金禾堂医药有限公司二店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京林生堂医药有限公司云景店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云汉丹堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京林生堂医药有限公司杨庄店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金谊天保堂大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京林生堂医药有限公司杨家洼店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百草堂医药连锁有限公司九分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京福字号医药有限公司七店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京林生堂康泰益民医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京福字号医药有限公司十八店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百草堂医药连锁有限公司五分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京林生堂医药有限公司北关店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京林生堂医药有限公司九棵树店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司通朝大街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司小稿村分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司中山大街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百草堂医药连锁有限公司二分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百草堂医药连锁有限公司十三分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司西周路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康环大药房有限公司景盛南二街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第十九店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司新华南路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司玉带河东街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司怡乐北街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京鹤安长泰大药房有限公司新华南路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康恒通大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京瑞福康医药有限公司瑞民康店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京瑞福康医药有限公司上营药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京瑞福康医药有限公司新华西街药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京瑞福康医药有限公司新柳岸芳园药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京瑞福康医药有限公司北苑药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京福字号医药有限公司三店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京福字号医药有限公司十九店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第五十二店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第四十三店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康利民康泰医药有限公司第二分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京祥裕正杰大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京永兴康金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市顺义医药药材有限公司鑫心堂盈康药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市顺义医药药材有限公司鑫心堂瑞颐堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京顺批百康慧德医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京顺批医药有限公司第八药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京顺批医药有限公司第七药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京顺批医药有限公司第五药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市顺义医药药材有限公司鑫心堂瑞发堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京祥顺康医药有限公司药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东方众康大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市顺义医药药材有限公司瑞德堂医保全新大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市裕龙鑫顺医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京裕民路金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市顺义医药药材有限公司鑫心堂瑞福堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市顺义医药药材有限公司鑫心堂全康药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市顺义医药药材有限公司鑫心堂宏城药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京祥顺康药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市顺义医药药材有限公司瑞丰堂医保全新大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京达新康金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康大药房有限公司第七十四分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德云众康大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市顺义医药药材有限公司瑞林堂医保全新大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京顺批北小营医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京桐康堂医药有限公司好药师大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰医药有限公司九州福乐店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂国恩药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰医药有限公司全益堂金康店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京医保中洋大药房有限公司彩俸小区分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司中山南大街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司府前街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司裕龙一街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京养生堂药店有限公司顺义药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京顺批永庆堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司府前街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京顺批厚德医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京芷萱万芝堂",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "医药商贸有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京顺批鑫达康药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康康乐医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云医药连锁有限公司钰龙店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云愈新医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云聚德康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京为民恒康医药有限公司北务店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京顺批医药有限公司一分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司顺丰大街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京顺批医药有限公司第十一药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京顺批医药有限公司第一药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京顺批医药有限公司第三药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云医药连锁有限公司胜利小区店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰恒安医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司安宁街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰启安医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云医药连锁有限公司石园店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云日峰店医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰义宾百顺医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰医药有限公司双兴店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰瑞喜堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰为民堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰华康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰博康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰顺康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰营康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰医药有限公司望泉店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京鑫民康金象大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云医药连锁有限公司高营店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东方香邑金象大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰医药有限公司九州仁盛店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰医药有限公司百药兆民店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰医药有限公司福乐众康店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰医药有限公司福乐祥康店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰杏安堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好一生永康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京九州同泰医药有限公司福乐仁康店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "科园信海智慧药房（北京）有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云医药连锁有限公司第二分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司站前东街金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京宏瑞怡馨大药房医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好一生建新医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京众博康健医药有限公司后沙峪店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好一生医药有限公司石园大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁宁堂大药房有限公司二分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京众博康健医药有限公司昌平天通苑店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京凯尔康大药房有限责任公司天通苑东三区分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京养生堂药店有限公司文华东路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京平安乐医药连锁有限公司润竹贰第九分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司东环路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京平安乐健安堂医药连锁有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京昌药医药连锁经营有限公司树仁草堂大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京平安乐健安堂医药连锁有限公司八分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京安笑康大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京广林金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司辛庄桥西药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京西贯市金象大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第十三店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京昌药医药连锁经营有限公司昌平药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云医药连锁有限公司百善店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京昌药医药连锁经营有限公司济弘堂大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京昌药医药连锁经营有限公司济善堂大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京昌药医药连锁经营有限公司济仁堂大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京平安乐润竹药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京平安乐健安堂医药连锁有限公司三分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京平安乐医药连锁有限公司润竹肆南七家一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京昌药医药连锁经营有限公司南口药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京平安乐医药连锁有限公司润竹壹白坊分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司汤立路金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京泊远堂金象大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京德康金象大药房有限公司天通苑药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京平安乐健安堂医药连锁有限公司六分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康天合堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京昌药医药连锁经营有限公司济民堂大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京普乐安康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京汤山纯信堂药品销售有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂京康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂京北企业管理有限公司昌平店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司天通花苑药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京正济堂药品连锁超市有限责任公司昌平百沙路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司东关分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司东环路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司鼓楼北街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司鼓楼大街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司鼓楼西街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云鼓楼医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京养生堂药店有限公司北京人家药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司回龙观三分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司安康金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京云趣蒙正大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市昌平回春堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司鼓楼北街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司龙腾苑分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京龙腾蒙正医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司巩华城分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司创新路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康福瑞药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京立昌天保堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京正济堂药品连锁超市有限责任公司昌平店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司中东路药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司公园两栋分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康祝您健康医药有限责任公司温都水城分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康广生堂大药房有限公司北七家分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第十店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康兴国太昌药医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第八十九店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司高教园分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京祝您健康启航十五医药有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第五十九店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京京佰堂祝您健康启航医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第二十一店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司育知西路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第六十二店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云医药连锁有限公司郝庄店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京普乐佳康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京源通百姓平安大药房有限公司第一分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京源通百姓平安大药房有限公司仁信达分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京源通百姓平安大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂连锁药店有限责任公司经济技术开发区药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京源通百姓平安大药房有限公司第四分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金木御本堂药房连锁有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国春堂全新康泰药品有限公司长子营店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金木御本堂药房连锁有限公司第十一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金木御本堂药房连锁有限公司第二分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司鹿华路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责任公司福兴金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百姓安康大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市兴盛源医药药材有限责任公司兴益康药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂兴华药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金木御本堂药房连锁有限公司第五分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京佑美嘉工贸中心",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京益顺堂药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京丰益堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好药师大药房连锁有限公司广平大街店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京敬仁堂医药连锁有限公司第八分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司小羊坊分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京敬仁堂医药连锁有限公司第五分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京万源宝隆宏昌大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第四十六药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "仁和药房网（北京）医药科技有限公司第十九药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金木御本堂药房连锁有限公司第九分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京仁人同济大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司金星路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京悦康和明医堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京敬仁堂医药连锁有限公司第二分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉信普康医药有限公司第一分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京敬仁堂医药连锁有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京恒泰祥和医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京嘉信普康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市永林门诊部有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金木御本堂药房连锁有限公司第六分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市华瑞堂大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京源通百姓平安大药房有限公司第六分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百信万芝堂医药有限责任公司义和庄分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百信万芝堂医药有限责任公司大兴分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百信万芝堂医药有限责任公司黄村分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京十三万芝堂医药有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司南西路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司永兴路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康兴华医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司乐园路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司兴丰大街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司清源路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司滨河街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司永旺路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京厚德安康联港医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司乐园路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司西红门店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司华佗路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司八十分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京壹壹壹商业连锁有限公司兴华北路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第四十九店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司宏都路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康兴国太新安医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康环大药房有限公司环科中路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国春堂祥盛药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京兴民堂医药有限公司第十分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康兴国太富强医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司高米店分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司采源路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京源通百姓平安大药房有限公司第三十三分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京京鹤堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京兴民堂医药有限公司第九分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第六十一店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京阳光百益医药有限公司第十六分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司欣荣北大街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京阳辰光百益未来城医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司宏旭路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司同兴园路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京阳光百益医药有限公司第三分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京阳光百益医药有限公司第八分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康荣盛堂医药有限公司第九分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京阳辰光百益大东医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京阳光百益医药有限公司第二十六分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京阳光百益医药有限公司第十八分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司兴华大街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京盛民堂医药销售有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京怀柔燕北医药有限公司乐兴堂医保全新大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好药师大药房连锁有限公司怀柔青春路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京怀柔燕北医药有限公司华峰医保全新大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂京北企业管理有限公司怀柔药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京怀柔燕北医药有限公司乐盈堂医保全新大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京怀柔燕北医药有限公司乐益堂医保全新大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京富乐民康大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "汉典大药房连锁（北京）有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京怀柔燕北医药有限公司乐康堂医保全新大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京迎宾盛民堂医药销售有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京乐怀堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康远宁馨医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百康利民医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司文化南街店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司杏园店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司山东庄药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京万家瑞大药房连锁有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司第二分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司平嘉药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司第三药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司第四药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司第十五药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司第二药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司第七药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司第七药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司第五药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司大兴庄药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司马昌营药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京万家瑞大药房连锁有限公司康平店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司刘家店药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京万家瑞大药房连锁有限公司天寿春二店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司上宅药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司百草安康药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司马各庄村药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司大北关药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京万家瑞大药房连锁有限公司贾各庄店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司靠山集供销社药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司第一药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司北吉山药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司十六百信药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司东寺渠药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司第二药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司马昌营店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司镇罗营药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司雅芝佳药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司事兴堂店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司南定福药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司上纸寨药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司西寺渠店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司平谷南街店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司第十四药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司新平西路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司国康全新店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂京北企业管理有限公司平谷药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司王辛庄店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京创世兴和堂医药有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司十八百信药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司金海湖店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京久久仁康医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京久久仁康医药有限公司第一药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司第十二药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司第十九药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司第二十药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司第三药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司云峰寺药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司第十七药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京万家瑞大药房连锁有限公司大华山供销社店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京万家瑞大药房连锁有限公司小峪子店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司第四药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京万家瑞大药房连锁有限公司兴平店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京万家瑞大药房连锁有限公司东樊各庄店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京万家瑞大药房连锁有限公司天寿春三店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司二十药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有有限公司世纪广场店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司第十一药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司四十百信药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司健翔兴安药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金象大药房医药连锁有限责",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "任公司新平北路金象大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司四十二百信药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司十三百信药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春东高村医药连锁有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春康益堂医药连锁有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司十九百信药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京华益春医药连锁有限公司第六药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司马坊分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有有限公司新车站店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司平祥店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有有限公司向阳康泰店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司山东庄康安店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司建设街店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司金乡西小区店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有有限公司顺平祥源店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有有限公司畅观楼店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司峪翔店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司迎宾花园店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京世延堂龙翔连锁药店有限公司吉卧村药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有有限公司民医阁店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京万家瑞大药房连锁有限公司大华山店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京万家瑞大药房连锁有限公司东辛撞店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有有限公司林荫东门店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司南独乐河店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京万家瑞大药房连锁有限公司北杨桥店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司新座店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司新平北路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京闵邦韩医药销售有限公司鼓楼大街店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百信仁康大药房有限公司行宫店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京和谐春天医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京和谐春天医药有限公司六分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康乐亿家大药房有限公司第二十六分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京正济堂药品连锁超市有限责任公司密云二店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京同仁堂京北企业管理有限公司密云药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市密云区医药药材有限公司沿湖扶生药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京扶生医药连锁经营有限公司太师屯药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康乐亿家大药房有限公司沙河店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京扶生医药连锁经营有限公司鼓楼药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京和谐春天医药有限公司十四分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京和谐春天医药有限公司润千家店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百草扶生大药房有限责任公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京和谐春天医药有限公司八分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京润安堂医药连锁有限公司第九分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京润安堂医药连锁有限公司第三分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京和谐春天医药有限公司十三分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康乐亿家大药房有限公司第二分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康乐亿家大药房有限公司第二十八分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康乐亿家大药房有限公司第十三分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康乐亿家大药房有限公司果园店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京泰宁康医药有限公司檀城店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康乐亿家大药房有限公司第十八分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京正济堂药品连锁超市有限责任公司密云一店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东济康大药房",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京正济堂药品连锁超市有限责任公司密云三店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司百世城店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司新东路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司银河花园分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司阳光街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康海升堂龙腾大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康海升堂大药房有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京扶生医药连锁经营有限公司太师屯万寿堂药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康乐亿家大药房有限公司第二十一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康乐亿家大药房有限公司第二十二分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京和谐春天医药有限公司一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京和谐春天医药有限公司十六分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京和谐春天医药有限公司十八分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京和谐春天医药有限公司二十一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京和谐春天医药有限公司三十分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康乐亿家大药房有限公司第二十分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百信仁康大药房有限公司密云店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云医药连锁有限公司密云店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第九分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第十分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第十二分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第十三分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司延庆分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市祝生堂医药有限公司丰康药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百信仁康大药房有限公司二分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市祝生堂医药有限公司悦康药店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百信仁康大药房有限公司七分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百信仁康大药房有限公司一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京延民康医药有限公司十分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京市祝生堂医药有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京延民康医药有限公司十三分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第三分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第四分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第五分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第四十七分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第七分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第四十八分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第十八分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第四十九分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第五十一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第五十二分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第二十一分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第六分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第二十四分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第二分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京明和堂医药有限公司第三十五分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京百信仁康大药房有限公司延庆店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康盛堂医药有限公司一店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康盛堂医药有限公司二店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康盛堂医药有限公司三店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康盛堂医药有限公司十店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康盛堂医药有限公司十七店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康盛堂医药有限公司十一店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京源通百姓平安大药房有限公司第六十六分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京悦康同泰大药房有限公司第七分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京悦康同泰大药房有限公司第十分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京悦康同泰大药房有限公司第三分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京好药师大药房连锁有限公司荣昌东街店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京东升天保堂连锁药店有限公司小古路店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司景盛北二街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司次渠南里分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京金禾堂医药有限公司马桥店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云汉丹堂医药有限公司科创九街分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司景园北街分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京康盛堂医药有限公司五店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高济百康大药房有限公司荣华北路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京高远百康博仁堂医药有限公司德贤东路分店",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京健康云医药连锁有限公司初心瀛海分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "北京国春堂药店有限公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "高济新世纪医药连锁（北京）有限公司第七十一分公司",
+      "credit_code": null,
+      "tag": "29"
+    },
+    {
+      "entity_name": "叮当智慧药房（北京）有限公司第八十五店",
+      "credit_code": null,
+      "tag": "29"
+    }
+  ],
+  "filtered_out_count": 0
+}

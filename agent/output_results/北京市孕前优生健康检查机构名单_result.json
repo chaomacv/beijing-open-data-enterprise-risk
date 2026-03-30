@@ -1,0 +1,89 @@
+{
+  "file_name": "北京市孕前优生健康检查机构名单.json",
+  "file_tags": [
+    "婚前/孕前优生健康检查机构"
+  ],
+  "results": [
+    {
+      "entity_name": "东城区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    },
+    {
+      "entity_name": "西城区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    },
+    {
+      "entity_name": "朝阳区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    },
+    {
+      "entity_name": "海淀区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    },
+    {
+      "entity_name": "丰台区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    },
+    {
+      "entity_name": "石景山区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    },
+    {
+      "entity_name": "门头沟区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    },
+    {
+      "entity_name": "房山区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    },
+    {
+      "entity_name": "通州区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    },
+    {
+      "entity_name": "顺义区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    },
+    {
+      "entity_name": "昌平区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    },
+    {
+      "entity_name": "大兴区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    },
+    {
+      "entity_name": "怀柔区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    },
+    {
+      "entity_name": "平谷区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    },
+    {
+      "entity_name": "密云区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    },
+    {
+      "entity_name": "延庆区妇幼保健院",
+      "credit_code": null,
+      "tag": "婚前/孕前优生健康检查机构"
+    }
+  ],
+  "filtered_out_count": 7
+}

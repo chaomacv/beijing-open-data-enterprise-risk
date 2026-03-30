@@ -1,0 +1,699 @@
+{
+  "file_name": "海淀区2020年拟下达市级财政支持学前教育事业发展补助资金明细表.json",
+  "file_tags": [
+    "市级财政支持学前教育事业发展补助资金"
+  ],
+  "results": [
+    {
+      "entity_name": "北京市清华洁华幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "空军直属机关蓝天幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "北京师范大学实验幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "中国人民武装警察部队总部机关幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军海军机关幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "兵器工业机关服务中心幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "北京五色土幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "中国石油集团科学技术研究院幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区四季青镇常青幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "中国人民大学幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "国家机关事务管理局花园村幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "中央军委机关事务管理总局红星幼儿园（太平路园）",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "中国科学院第一幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "北京航空航天大学幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "北京大学医学部幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "北京育新实验幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "北京有色金属研究总院幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "中央军委机关事务管理总局红星幼儿园（五棵松园）",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "中国科学院第三幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "北京大学附属幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "北京交通大学幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区四季青育红幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "核工业第二研究设计院幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中央军委机关事务管理总局红星幼儿园（花园路园）",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京邮电大学幼儿教育中心",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军总装备部后勤部小营幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中央军委机关事务管理总局北极寺老干部服务管理局幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军空军装备研究院蓝天幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军国防大学第一幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京科技大学幼儿教育中心",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军军事科学院军事医学研究院幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军国防大学第二幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京公交鸿运承幼教中心第三幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "航天机关幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中央军委机关事务管理总局红星幼儿园（万寿路园）",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市银河之星幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区北太平庄街道威凯幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "9511联合社区幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中央民族大学幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "住房和城乡建设部幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军61046部队幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军61886部队幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国铁道科学研究院集团有限公司幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军总医院第四医学中心幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京理工大学幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区小星星双语艺术幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京语言大学幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国农业大学东校区幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "新华社机关事务管理局保育院",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区北太平庄街道蓟门里幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "空军95968部队幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区海淀街道厂洼幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区学院路街道展春园幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国气象局幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区翠湖幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军63919部队幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国农业科学院幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区立新幼儿园分园航天之星幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军军事科学院军事科学信息研究中心幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "空军指挥学院蓝天幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中央军委机关事务管理总局红星幼儿园（玉泉路园）",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军63921部队幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京林业大学幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军火箭军机关幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中央军委机关事务管理总局红星幼儿园（新街口园）",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区四季青镇北坞幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国科学院第七幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中央军委机关事务管理总局红星幼儿园（复兴路园）",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "钢铁研究总院幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军总医院幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军61195部队前哨幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军国防大学联合勤务学院幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中共中央办公厅警卫局万寿路幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国农业大学西校区幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国科学院幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国航发北京航空材料研究院幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "首都师范大学附属幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区玉渊潭实验幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国音乐学院附属艺术幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市农林科学院幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区四季青镇巨山幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "中国人民解放军61672部队幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "中国人民解放军66400部队政治部幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区四季青香山幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区海淀镇中心幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "中国林业科学研究院幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京应用物理与计算数学研究所九一幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区四季青南平庄幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "中国人民解放军军乐团幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区苏家坨镇中心幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区紫竹院街道第二幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区中关村街道第一幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京馨星幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "海军总医院幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "中国人民解放军空军航空医学研究所附属医院幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区北部新区苏家坨艺术幼儿园",
+      "credit_code": null,
+      "tag": "无等级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区西北旺屯佃村幼儿园",
+      "credit_code": null,
+      "tag": "无等级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区太阳幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "北京市二十一世纪实验幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "北京岭南幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区培杰幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区世纪汇佳幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市世纪阳光幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区英才幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区领秀硅谷凯尔宝宝婴幼园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区长河湾汇佳幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区上林溪二十一世纪实验幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区本真双语艺术幼稚园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区万泉汇佳幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区凯尔宝宝婴幼园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区世纪新汇佳幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京阳光儿童早期教育实验中心",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区英才美丽园幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京小天使美语幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区亿城蓝天幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区红缨幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区宜宝双语幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区为明实验幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区凯蒂幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区朝昭双语婴幼园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区布朗幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区小汉顿幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区为明西山幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区爱儿坊橡树湾幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区娃娃丫丫幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区人民政府机关幼儿园",
+      "credit_code": null,
+      "tag": "市级示范园"
+    },
+    {
+      "entity_name": "中国石油集团科学技术研究院有限公司幼儿园",
+      "credit_code": null,
+      "tag": "市级示范幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区现代艺术幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区红黄蓝颐东苑幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区世纪之星幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区宏远幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区大有双语幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区四季阳光幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军66400部队幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "空军特色医学中心蓝天幼儿园",
+      "credit_code": null,
+      "tag": "二级园"
+    },
+    {
+      "entity_name": "北京市海淀区海育幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区太极艾嘉幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区京童未来幼儿园",
+      "credit_code": null,
+      "tag": "一级幼儿园"
+    }
+  ],
+  "filtered_out_count": 0
+}

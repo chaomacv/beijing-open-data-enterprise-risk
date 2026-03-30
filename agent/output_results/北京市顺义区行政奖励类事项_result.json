@@ -1,0 +1,20 @@
+{
+  "file_name": "北京市顺义区行政奖励类事项.json",
+  "file_tags": [
+    "行政奖励",
+    "先进集体奖"
+  ],
+  "results": [
+    {
+      "entity_name": "北京市顺义区发展和改革委员会",
+      "credit_code": null,
+      "tag": "节能减排先进集体奖"
+    },
+    {
+      "entity_name": "北京市顺义区消防救援支队",
+      "credit_code": null,
+      "tag": "消防工作先进集体奖"
+    }
+  ],
+  "filtered_out_count": 9
+}

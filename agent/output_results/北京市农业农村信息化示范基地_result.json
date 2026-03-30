@@ -1,0 +1,25 @@
+{
+  "file_name": "北京市农业农村信息化示范基地.json",
+  "file_tags": [
+    "服务型农业农村信息化示范基地",
+    "生产型农业农村信息化示范基地"
+  ],
+  "results": [
+    {
+      "entity_name": "北京市农林科学院",
+      "credit_code": null,
+      "tag": "服务型农业农村信息化示范基地"
+    },
+    {
+      "entity_name": "北京市农林科学院智能装备技术研究中心",
+      "credit_code": null,
+      "tag": "生产型农业农村信息化示范基地"
+    },
+    {
+      "entity_name": "北京市华都峪口禽业有限责任公司",
+      "credit_code": null,
+      "tag": "生产型农业农村信息化示范基地"
+    }
+  ],
+  "filtered_out_count": 12
+}

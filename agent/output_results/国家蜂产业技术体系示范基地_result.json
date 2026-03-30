@@ -1,0 +1,71 @@
+{
+  "file_name": "国家蜂产业技术体系示范基地.json",
+  "file_tags": [
+    "国家蜂产业技术体系养蜂示范基地",
+    "国家蜂产业技术体系中蜂示范基地",
+    "国家蜂产业技术体系授粉示范基地"
+  ],
+  "results": [
+    {
+      "entity_name": "延庆区大庄科镇瓦庙村",
+      "credit_code": null,
+      "tag": "国家蜂产业技术体系养蜂示范基地"
+    },
+    {
+      "entity_name": "门头沟区妙峰山镇黄台村",
+      "credit_code": null,
+      "tag": "国家蜂产业技术体系养蜂示范基地"
+    },
+    {
+      "entity_name": "平谷区峪口镇峪口村",
+      "credit_code": null,
+      "tag": "国家蜂产业技术体系养蜂示范基地"
+    },
+    {
+      "entity_name": "平谷区南独乐河镇刘家河村",
+      "credit_code": null,
+      "tag": "国家蜂产业技术体系养蜂示范基地"
+    },
+    {
+      "entity_name": "昌平区南口镇西李庄村",
+      "credit_code": null,
+      "tag": "国家蜂产业技术体系养蜂示范基地"
+    },
+    {
+      "entity_name": "昌平区流村镇长峪城村",
+      "credit_code": null,
+      "tag": "国家蜂产业技术体系养蜂示范基地"
+    },
+    {
+      "entity_name": "密云区太师屯镇龙潭沟村",
+      "credit_code": null,
+      "tag": "国家蜂产业技术体系养蜂示范基地"
+    },
+    {
+      "entity_name": "密云区高岭镇",
+      "credit_code": null,
+      "tag": "国家蜂产业技术体系养蜂示范基地"
+    },
+    {
+      "entity_name": "密云区冯家峪镇保峪岭村",
+      "credit_code": null,
+      "tag": "国家蜂产业技术体系中蜂示范基地"
+    },
+    {
+      "entity_name": "大兴区庞各庄镇李家巷村",
+      "credit_code": null,
+      "tag": "国家蜂产业技术体系授粉示范基地"
+    },
+    {
+      "entity_name": "大兴区榆垡镇西麻各庄村",
+      "credit_code": null,
+      "tag": "国家蜂产业技术体系授粉示范基地"
+    },
+    {
+      "entity_name": "北京市顺义区杨镇汉石桥村",
+      "credit_code": null,
+      "tag": "国家蜂产业技术体系授粉示范基地"
+    }
+  ],
+  "filtered_out_count": 0
+}

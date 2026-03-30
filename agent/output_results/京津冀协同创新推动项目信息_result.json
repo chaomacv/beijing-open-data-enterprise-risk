@@ -1,0 +1,59 @@
+{
+  "file_name": "京津冀协同创新推动项目信息.json",
+  "file_tags": [
+    "京津冀协同创新推动项目承担单位"
+  ],
+  "results": [
+    {
+      "entity_name": "清华大学",
+      "credit_code": null,
+      "tag": "京津冀协同创新推动项目承担单位"
+    },
+    {
+      "entity_name": "北京科技大学",
+      "credit_code": null,
+      "tag": "京津冀协同创新推动项目承担单位"
+    },
+    {
+      "entity_name": "清华大学",
+      "credit_code": null,
+      "tag": "京津冀协同创新推动项目承担单位"
+    },
+    {
+      "entity_name": "首都师范大学",
+      "credit_code": null,
+      "tag": "京津冀协同创新推动项目承担单位"
+    },
+    {
+      "entity_name": "北京市农林科学院",
+      "credit_code": null,
+      "tag": "京津冀协同创新推动项目承担单位"
+    },
+    {
+      "entity_name": "北京工业大学",
+      "credit_code": null,
+      "tag": "京津冀协同创新推动项目承担单位"
+    },
+    {
+      "entity_name": "北京机电院机床有限公司",
+      "credit_code": null,
+      "tag": "京津冀协同创新推动项目承担单位"
+    },
+    {
+      "entity_name": "中国软件与技术服务股份有限公司",
+      "credit_code": null,
+      "tag": "京津冀协同创新推动项目承担单位"
+    },
+    {
+      "entity_name": "大唐移动通信设备有限公司",
+      "credit_code": null,
+      "tag": "京津冀协同创新推动项目承担单位"
+    },
+    {
+      "entity_name": "机科发展科技股份有限公司",
+      "credit_code": null,
+      "tag": "京津冀协同创新推动项目承担单位"
+    }
+  ],
+  "filtered_out_count": 6
+}

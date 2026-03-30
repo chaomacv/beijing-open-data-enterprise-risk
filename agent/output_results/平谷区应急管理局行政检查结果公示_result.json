@@ -1,0 +1,940 @@
+{
+  "file_name": "平谷区应急管理局行政检查结果公示.json",
+  "file_tags": [
+    "行政检查合格",
+    "行政检查不合格"
+  ],
+  "results": [
+    {
+      "entity_name": "北京安平气体有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷通航加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市平谷飞速达加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷金海加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京东升宏达加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京金海鲁胜石油贸易有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷甘营加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷京宇加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石油天然气股份有限公司北京平谷快鑫加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷兆畅加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷杨桥加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京长谷经贸有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京亨通加油站有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京中油华路石化投资有限公司平谷加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷台京加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市平谷永丰加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京洗得宝消毒制品有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京同鹤药业有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京金典汉方药业股份有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京三和药业有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京谷达酒店运营管理有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷海达加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京振兴永强加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市南念头加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷华山中原加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷东高村加油站",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷刘店加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷日兴旺加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京江华石油有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市平谷燕东旺加油站",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "爱美客技术发展股份有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京北排膜科技有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷宏达加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷大峪子加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷日兴加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京龙禹熊畅贸易有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市东风保健营养品有限责任公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京绿伞科技股份有限公司平谷分公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "诺伊环保设备制造（北京）有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京豪特酿酒公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京燕东兴加油站有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷通航加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市平谷飞速达加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷金海加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京东升宏达加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京金海鲁胜石油贸易有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷甘营加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "恒昶精密组件（北京）有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷东高村加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市平谷燕东旺加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京金海鑫压力容器制造有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京中银盛祥石油化工有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京东升制药有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "山东广帮建筑安装有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京冷链在线电子商务有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "爱美客技术发展股份有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京新奥京谷燃气有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京玉衡源餐饮服务有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市富乐科技开发有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京中安泰华科技有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京美心食品有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市平谷区温暖之家老年公寓",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京九九之家宾馆有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京尚品云居酒店管理有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京泰祥商务酒店有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京千喜鹤食品有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "维达北方纸业（北京）有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷华山中原加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷日兴加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京龙禹熊畅贸易有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京谷达酒店运营管理有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "乐普（北京）生物科技有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京京平物美超市有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京燕东兴加油站有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷通航加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市平谷飞速达加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷金海加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京东升宏达加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京金海鲁胜石油贸易有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷甘营加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷刘店加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷大峪子加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷日兴旺加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京江华石油有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京中银盛祥石油化工有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷南太务加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷平安加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市南念头加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷东高村加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市平谷燕东旺加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京东发兴达加油站有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京燕东兴加油站有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷通航加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市平谷飞速达加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷金海加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京东升宏达加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京金海鲁胜石油贸易有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷甘营加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京京东鑫升彩钢压型板有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京亿达伟业彩板钢结构工程有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "中国石油天然气股份有限公司北京平谷快鑫加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷兆畅加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷杨桥加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京长谷经贸有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京亨通加油站有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市施必安华兴开关厂",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京中油华路石化投资有限公司平谷加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷台京加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京九久营养食品有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "更美食品（北京）有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京东升制药有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷海达加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京燕谷石油公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京岐黄制药有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京安平气体有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷东高村加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市平谷燕东旺加油站",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷滨河加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京蛋之初食品有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "维达北方纸业（北京）有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京四环卫生药械厂有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京腾奥世杰工贸有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京普析通用仪器有限责任公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京坎普尔环保技术有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市富乐科技开发有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石油天然气股份有限公司北京平谷快鑫加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京中油华路石化投资有限公司平谷加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷台京加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "浙江铭诚建设有限公司北京分公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京徽芝堂药业有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京谷达酒店运营管理有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷平安加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷南太务加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京东发兴达加油站有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "中国石油天然气股份有限公司北京远升加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京国泰平安百货有限公司平谷店",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "乐普（北京）生物科技有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷城西加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京龙禹熊畅贸易有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京金海鑫压力容器制造有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷日兴加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷华山中原加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷大峪子加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷日兴旺加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京燕山盛祥石油化工有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京燕谷石油公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京鑫海韵通商业大楼有限公司平谷大卖场",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京一志车科技有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京真金昌汽车科技有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京宏济药业有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京金曼顿科技发展有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "建研院检测中心有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京达成生物科技有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "诺伊环保设备制造（北京）有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京龙禹石油化工有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京燕山盛祥石油化工有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京中银盛祥石油化工有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京燕东兴加油站有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷通航加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市平谷飞速达加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷金海加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京东升宏达加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京金海鲁胜石油贸易有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷甘营加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京千喜鹤食品有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京百美特生物制药有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京昊园药业有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市平谷区金英纸箱厂",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京华靳制药有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市南念头加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷东高村加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市平谷燕东旺加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京东发兴达加油站有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京波尔莱特饲料有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "中国石化销售股份有限公司北京平谷东高村加油站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京华东乐器有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京伏尔特技术有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京华典饲料有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京北排膜科技有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京同力兴科农业科技有限公司平谷分公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京东发兴达加油站有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京亚戈农生物药业有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京航净清洗有限公司",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京同鹤药业有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京安平气体有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京幸福益生再生医学新材料有限公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    }
+  ],
+  "filtered_out_count": 0
+}

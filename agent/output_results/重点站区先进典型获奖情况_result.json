@@ -1,0 +1,63 @@
+{
+  "file_name": "重点站区先进典型获奖情况.json",
+  "file_tags": [
+    "先进集体",
+    "北京榜样",
+    "最佳志愿服务组织",
+    "最佳志愿服务项目",
+    "全国学雷锋活动示范点"
+  ],
+  "results": [
+    {
+      "entity_name": "北京恒兴西站物业管理中心",
+      "credit_code": null,
+      "tag": "全国学雷锋活动示范点"
+    },
+    {
+      "entity_name": "北京西站地区志愿服务协会",
+      "credit_code": null,
+      "tag": "最佳志愿服务组织"
+    },
+    {
+      "entity_name": "北京西站地区志愿服务协会",
+      "credit_code": null,
+      "tag": "最佳志愿服务组织"
+    },
+    {
+      "entity_name": "恒兴中心志愿服务队",
+      "credit_code": null,
+      "tag": "最佳志愿服务组织"
+    },
+    {
+      "entity_name": "北京市报刊发行局",
+      "credit_code": null,
+      "tag": "最佳志愿服务项目"
+    },
+    {
+      "entity_name": "北京市重点站区志愿服务协会",
+      "credit_code": null,
+      "tag": "北京榜样"
+    },
+    {
+      "entity_name": "北京市重点站区志愿服务协会",
+      "credit_code": null,
+      "tag": "先进集体"
+    },
+    {
+      "entity_name": "北京南站党员车队",
+      "credit_code": null,
+      "tag": "北京榜样"
+    },
+    {
+      "entity_name": "宣传处",
+      "credit_code": null,
+      "tag": "先进集体"
+    },
+    {
+      "entity_name": "宣传处",
+      "credit_code": null,
+      "tag": "先进集体"
+    }
+  ],
+  "filtered_out_count": 23
+}

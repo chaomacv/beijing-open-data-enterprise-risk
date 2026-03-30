@@ -1,0 +1,1189 @@
+{
+  "file_name": "医疗保险定点医疗机构名单.json",
+  "file_tags": [
+    "三级甲等医疗保险定点医疗机构",
+    "二级甲等医疗保险定点医疗机构",
+    "三级合格医疗保险定点医疗机构",
+    "二级合格医疗保险定点医疗机构",
+    "三级乙等医疗保险定点医疗机构",
+    "二级乙等医疗保险定点医疗机构"
+  ],
+  "results": [
+    {
+      "entity_name": "首都医科大学附属北京同仁医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中日友好医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国医学科学院北京协和医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军陆军总医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市第六医院（北京市东城区交道口社区卫生服务中心、北京市东城区北新桥社区卫生服务中心）",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市和平里医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市隆福医院（北京市东城区老年病医院）（东城区景山社区卫生服务中心）",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市羊坊店医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京中医药大学东直门医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属北京中医医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市鼓楼中医医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属北京妇产医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市东城区妇幼保健计划生育服务中心（北京市东城区妇幼保健院、北京市东城区东四妇产医院）",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市东城区精神卫生保健院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属北京地坛医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京积水潭医院(北京大学第四临床医学院）",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京大学人民医院（北京大学第二临床医学院）",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京大学第一医院(北京大学北大医院）",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市肛肠医院（北京市西城区二龙路医院)",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市第二医院(北京市西城区老年医院）",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属复兴医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军第二炮兵总医院",
+      "credit_code": null,
+      "tag": "三级乙等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市西城区展览路医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市丰盛中医骨伤专科医院（北京市西城区丰盛医院）",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市西城区平安医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军第三零五医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京家圆医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京中医药大学附属护国寺中医医院（北京市针灸医院）",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京长安中西医结合医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属北京安定医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市结核病防治所（北京结核病控制研究所）",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国医学科学院阜外医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京急救中心",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京按摩医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京德尔康尼骨科医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属北京儿童医院(北京市儿科研究所)",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属北京天坛医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市普仁医院（北京市第四医院）",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市东城区第一人民医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京同仁堂中医医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属北京口腔医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学宣武医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属北京友谊医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市监狱管理局中心医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市回民医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市西城区广外医院（北京市西城区宣武老年病医院）",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市监狱管理局清河分局医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市健宫医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国中医科学院广安门医院（中国中医科学院第二临床医药研究所）",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市宣武中医医院",
+      "credit_code": null,
+      "tag": "三级乙等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市西城区妇幼保健院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属北京朝阳医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属北京安贞医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军第306医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民武装警察部队北京市总队医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京华信医院(清华大学第一附属医院)",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "应急管理部应急总医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市第一中西医结合医院（北京市中西医结合心脏康复中心）",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市垂杨柳医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "航空总医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京中医药大学第三附属医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市朝阳区双桥医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京朝阳中西医结合急诊抢救中心",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "民航总医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京五洲妇儿医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都儿科研究所附属儿童医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京朝阳急诊抢救中心",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市朝阳区中医医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国中医科学院望京医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国藏学研究中心北京藏医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市朝阳区妇幼保健院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京玛丽妇儿医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市朝阳区第三医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属北京胸科医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国医学科学院肿瘤医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市老年病医院（北京市第一社会福利院）",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市红十字会急诊抢救中心(北京市红十字会紧急救援中心）北京市红十字会创伤医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京爱尔英智眼科医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市朝阳区桓兴肿瘤医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市朝阳区三环肿瘤医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京瑞程医院管理有限公司瑞泰口腔医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京伟达中医肿瘤医院（北京伟达慈丹医院）",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京京城皮肤医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京嫣然天使儿童医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "国家电网公司北京电力医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京丰台医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国航天科工集团七三一医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京航天总医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市丰台区铁营医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市丰台中西医结合医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市丰台区南苑医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京丰台右安门医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市红十字会和平骨科医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京长峰医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市丰台区老年人协会莲花池康复医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京博仁医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京中医药大学东方医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京国济中医医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京汇安中西医结合医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市丰台区精神病防治院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属北京佑安医院（传染病专科）",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军第三0二医院（传染病专科）",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京博爱医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市丰台区妇幼保健计划生育服务中心（北京市丰台区妇幼保健院）",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京首大眼耳鼻喉医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京大学首钢医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "清华大学玉泉医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市石景山医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市石景山区五里坨医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属北京康复医院（北京工人疗养院）",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首钢集团有限公司矿山医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市石景山区中医医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国中医科学院眼科医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京联科中医肾病医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市石景山区妇幼保健院（妇幼保健计划生育服务中心）",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军海军总医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属北京世纪坛医院（北京铁路总医院）",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军总医院（301医院）",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军空军总医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军空军航空医学研究所附属医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军第三零七医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军总医院第一附属医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "航天中心医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军总医院第三医学中心",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京大学第三医院、北京大学第三临床医学院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军第二六一医院",
+      "credit_code": null,
+      "tag": "三级乙等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军第三一六医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市化工职业病防治院（北京市职业病防治研究院）",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市海淀医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京大学医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "兵器工业北京北方医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京水利医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军第309医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市中关村医院（中国科学院中关村医院）、北京市海淀区老年康复医院、海淀区中关村社区卫生服务中心",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市上地医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "清华大学医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京四季青医院（北京市海淀区四季青镇社区卫生服务中心）",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国中医科学院西苑医院、中国中医科学院第一临床医药研究所",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市中西医结合医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京华医中西医结合皮肤病医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京裕和中西医结合康复医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市海淀区妇幼保健院（北京市海淀区妇幼保健计划生育服务中心、北京市海淀区海淀社区卫生服务中心）",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京太和妇产医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京大学第六医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市海淀区精神卫生防治院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市社会福利医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京老年医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京肿瘤医院、北京大学肿瘤医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京大学口腔医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京三诺健恒糖尿病医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京清河医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京马应龙长青肛肠医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京优颐口腔医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学三博脑科医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京万柳美中宜和妇儿医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京京煤集团总医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市门头沟区医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市门头沟区中医医院(北京市门头沟区老年病医院)",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市门头沟区妇幼保健计划生育服务中心（北京市门头沟区妇幼保健院）",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市门头沟区龙泉医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京燕化医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市房山区第一医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市房山区良乡医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国核工业北京四0一医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市房山区中医医院（北京中医药大学房山医院）",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市房山区妇幼保健院（北京市房山区妇幼保健计划生育服务中心）",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市房山区精神病医院（北京市房山区精神卫生保健院）",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京北亚骨科医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "首都医科大学附属北京潞河医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市通州区中西医结合医院（北京市通州区中西医结合骨伤医院康复中心）",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市通州区新华医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国人民解放军第二六三医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市通州区妇幼保健院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市通州区精神病医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市顺义区医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市顺义区空港医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市顺义区中医医院（北京中医医院顺义医院）",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市顺义区妇幼保健院（北京儿童医院顺义妇儿医院）（北京市顺义区妇幼保健计划生育服务中心）",
+      "credit_code": null,
+      "tag": "二级乙等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市顺义区精神病医院(北京市顺义区精神卫生防治所)",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市顺义区结核病防治中心（北京市顺义区肿瘤医院）",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市昌平区医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市昌平区沙河医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市昌平区南口医院北京市昌平区南口中西医结合医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市昌平区中西医结合医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京小汤山医院（北京小汤山疗养院）",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市昌平区中医医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市昌平区天通苑中医医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市昌平区妇幼保健院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京回龙观医院（精神病专科）",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京民康医院（精神病、老年病专科）",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市昌平区精神卫生保健院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京皇城股骨头坏死专科医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京王府中西医结合医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京清华长庚医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京大学国际医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京大卫中医医院",
+      "credit_code": null,
+      "tag": "二级乙等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京京都儿童医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京美尔目第二眼科医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京泰康燕园康复医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京北大医疗康复医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "河北燕达医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京安琪妇产医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市大兴区人民医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市仁和医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市大兴区中西医结合医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "中国中医科学院广安门医院（南区）",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京普祥中医肿瘤医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市大兴区妇幼保健院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市大兴区心康医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京大兴兴业口腔医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京南郊肿瘤医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区医院",
+      "credit_code": null,
+      "tag": "三级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷岳协医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区中医医院",
+      "credit_code": null,
+      "tag": "三级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区妇幼保健院(北京市平谷区妇幼保健计划生育服务中心、北京市平谷区牙病防治所）",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区精神病医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京怀柔医院首都医科大学附属北京朝阳医院怀柔医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市怀柔区第二医院（北京市怀柔区汤河口镇社区卫生服务中心）",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京康益德中西医结合肺科医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京京北健永口腔医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市怀柔区中医医院北京中医医院怀柔医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市怀柔区妇幼保健院首都医科大学附属北京妇产医院怀柔妇幼保健院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市怀柔安佳医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市密云区医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市密云区中医医院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市密云区妇幼保健院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市密云区精神卫生防治院（北京市密云区精神病医院）",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市密云区渔阳口腔医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市延庆区医院（北京大学第三医院延庆医院）",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京中医医院延庆医院（北京市延庆区中医医院）",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市延庆区妇幼保健院",
+      "credit_code": null,
+      "tag": "二级甲等医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京市延庆区精神病医院（北京市延庆区精神卫生防治院）",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "北京振国中西医结合肿瘤医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    },
+    {
+      "entity_name": "国家康复辅具研究中心附属康复医院",
+      "credit_code": null,
+      "tag": "二级合格医疗保险定点医疗机构"
+    }
+  ],
+  "filtered_out_count": 0
+}

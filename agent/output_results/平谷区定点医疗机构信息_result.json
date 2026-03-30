@@ -1,0 +1,1544 @@
+{
+  "file_name": "平谷区定点医疗机构信息.json",
+  "file_tags": [
+    "三级甲等定点医疗机构",
+    "三级无等定点医疗机构",
+    "二级无等定点医疗机构",
+    "一级甲等定点医疗机构",
+    "一级无等定点医疗机构",
+    "无等级定点医疗机构"
+  ],
+  "results": [
+    {
+      "entity_name": "北京百合兴康商贸有限公司世纪永康诊所",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京京谷友好医院",
+      "credit_code": null,
+      "tag": "一级无等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市慧慈医院",
+      "credit_code": null,
+      "tag": "一级无等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区滨河街道滨河小区社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区滨河街道金谷园社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区滨河街道金海小区社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区滨河街道林荫家园社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区滨河街道南小区社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区滨河街道社区卫生服务中心",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区滨河街道向阳小区社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇大峪子村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇东辛撞村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇挂甲峪村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇后北宫村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇社区卫生服务中心（北京市平谷区大华山中心卫生院）",
+      "credit_code": null,
+      "tag": "一级甲等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇苏子峪村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇西峪村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇小峪子村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇白各庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇北埝头社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇管家庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇韩屯社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇鲁各庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇社区卫生服务中心（北京市平谷区大兴庄卫生院）",
+      "credit_code": null,
+      "tag": "一级无等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇西柏店社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇西石桥社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇周村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇北张岱社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇曹家庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇大旺务社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇大庄户社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇东高村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇克头社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇南埝头社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇南宅社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇南张岱社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇社区卫生服务中心（北京市平谷区东高村镇中心卫生院）",
+      "credit_code": null,
+      "tag": "一级甲等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇西高村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇赵家务社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东鹿角社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区光荣院医务室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区国医堂中医门诊部",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区宏佳源诊所",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区兴谷街道上纸寨村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区黄松峪乡大东沟村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区黄松峪乡刁窝村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区黄松峪乡黑豆峪村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区黄松峪乡社区卫生服务中心（北京市平谷区黄松峪卫生院）",
+      "credit_code": null,
+      "tag": "一级无等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇社区卫生服务中心（北京市平谷区金海湖中心卫生院）",
+      "credit_code": null,
+      "tag": "一级甲等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区刘家店镇北吉山社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区刘家店镇行宫社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区刘家店镇社区卫生服务中心（北京市平谷区刘家店卫生院）",
+      "credit_code": null,
+      "tag": "一级无等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区刘家店镇万家庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区刘家店镇寅洞社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇东双营社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇圪塔头社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇南定福社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇前芮营社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇社区卫生服务中心（北京市平谷区马昌营中心卫生院）",
+      "credit_code": null,
+      "tag": "一级甲等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇天井社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇王各庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇王官屯社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇西陈各庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇北石渠社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇东店社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇果各庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇英城社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇李蔡街社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇社区卫生服务中心（北京市平谷区马坊中心卫生院）",
+      "credit_code": null,
+      "tag": "一级甲等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区南独乐河镇甘营村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区南独乐河镇社区卫生服务中心（北京市平谷区南独乐河卫生院）",
+      "credit_code": null,
+      "tag": "一级甲等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区平谷镇海关西园社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区平谷镇社区卫生服务中心（北京市平谷区平谷镇卫生院）",
+      "credit_code": null,
+      "tag": "一级甲等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区山东庄镇北屯社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区山东庄镇大北关社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区山东庄镇东洼社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区山东庄镇山东庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区山东庄镇社区卫生服务中心（北京市平谷区山东庄卫生院）",
+      "credit_code": null,
+      "tag": "一级无等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区山东庄镇西沥津社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区山东庄镇小北关社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区山东庄镇鱼子山社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇北辛庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇东古社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇放光社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇井峪社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇莲花潭社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇太后社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇小辛寨社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇杏园社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇杨家会社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇翟各庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区西鹿角社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇安固社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇陈太务村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇龙家务村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇马各庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇南太务村第一卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇社区卫生服务中心（北京市平谷区夏各庄镇卫生院）",
+      "credit_code": null,
+      "tag": "一级甲等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇魏太务村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇夏各庄村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇贤王庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇杨庄户村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区兴谷街道社区卫生服务中心",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区熊儿寨乡社区卫生服务中心（北京市平谷区熊儿寨卫生院）",
+      "credit_code": null,
+      "tag": "一级无等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区医院",
+      "credit_code": null,
+      "tag": "三级无等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇北杨桥社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇蔡坨社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇大官庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇东樊各庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇胡家营社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇梨各庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇西樊各庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇兴隆庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇峪口社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇云峰寺社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇中桥社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区御芝堂中医门诊部",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区园田队社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营社区卫生服务中心（北京市平谷区镇罗营卫生院）",
+      "credit_code": null,
+      "tag": "一级无等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇玻璃台社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇关上社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇上镇社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇五里庙社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇杨家台社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷岳协医院",
+      "credit_code": null,
+      "tag": "二级无等定点医疗机构"
+    },
+    {
+      "entity_name": "平谷区城镇乐园西小区社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "平谷区平谷镇宏思达社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "平谷区平谷镇金乡小区社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "平谷区平谷镇园丁小区社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "平谷区中罗庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇三白山社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇社区卫生服务中心（北京市平谷区峪口中心卫生院）",
+      "credit_code": null,
+      "tag": "一级甲等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区南独乐河镇北寨村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇社区卫生服务中心（北京市平谷区王辛庄镇卫生院）",
+      "credit_code": null,
+      "tag": "一级无等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区南独乐河镇峰台村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区南独乐河镇刘家河社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区南独乐河镇张辛庄村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区南独乐河镇峨眉山村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区南独乐河镇南独乐河村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区南独乐河镇南山村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区精神病医院",
+      "credit_code": null,
+      "tag": "二级无等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇将军关社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇耿井社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇胡庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇中心村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇洙水村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇红石坎社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇黑水湾社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇马屯社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇海子村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇彰作社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇小东沟社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇靠山集社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区妇幼保健院(北京市平谷区妇幼保健计划生育服务中心、北京市平谷区牙病防治所）",
+      "credit_code": null,
+      "tag": "二级无等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区平谷镇太平街社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇青杨屯社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区平谷镇赵各庄社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区滨河街道北小区社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区中医医院",
+      "credit_code": null,
+      "tag": "三级甲等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇敬老院社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区京东口腔医院",
+      "credit_code": null,
+      "tag": "二级无等定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区安心之家老年公寓医务室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区兴谷街道后罗庄村社区卫生服务站",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇敬老院医务室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区兴谷街道中胡家务村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区兴谷街道杜辛庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇厂门口村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇早立庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇坨头寺村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇前台头村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇崔家庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇东撞村第一卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇河北村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇三条街村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇鲍家庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇河奎村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇二条街村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇新建队村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇洼里村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇西太平庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇门楼村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇普贤屯村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马坊镇杈子庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇南宅庄户村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇侯家庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区南独乐河镇新农村村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇西海子村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区南独乐河镇公爷坟村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区南独乐河镇北独乐河村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇南营村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇西营村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇赵庄户村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇北杨家桥村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇齐各庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇贾各庄村第一卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区南独乐河镇望马台村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇小官庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇桥头村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区南独乐河镇新立村村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇熊耳营村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇高家庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区峪口镇胡辛庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇西古村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区东高村镇张岱辛撞村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区平谷镇西寺渠村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇毛官营村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区平谷镇东寺渠村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇良庄子村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区平谷镇胜利街村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇薄各庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇周庄子村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇三府庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇西双营村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇东陈各庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇陈良屯村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区平谷镇北台头村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区平谷镇平安街村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇唐庄子村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区平谷镇和平街村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区平谷镇下纸寨村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇东柏店村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区平谷镇岳各庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇后芮营村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大兴庄镇东石桥村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇北定福村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区马昌营镇魏辛庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇大岭后村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇纪太务村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇王都庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇稻地村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇张各庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区夏各庄镇杨各庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇李家峪村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇梯子峪村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇清水湖村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇北水峪村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇西牛峪村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇大辛寨村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇见子庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇大庙峪村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区黄松峪乡梨树沟村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇东牛角峪村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇山门沟村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇西寺峪村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇下营村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇季家沟村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇麻子峪村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区黄松峪乡白云寺村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇东杏园村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区黄松峪乡塔洼村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇北四道岭村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇核桃洼村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇张家台村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇砖瓦窑村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇东四道岭村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇瓦官头村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇陈庄子村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇泉水峪村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇东寺峪村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区镇罗营镇桃园村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇西长峪村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇胜利村村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区大华山镇前北宫村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇茅山后村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇水峪村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇东上营村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区刘家店镇松棚村村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区山东庄镇北寺村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇韩庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇东马各庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇祖务村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇上堡子村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区刘家店镇北店村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇东土门村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区刘家店镇孔城峪村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇红石门村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇上宅村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区山东庄镇桃棚村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇郭家屯村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区山东庄镇桥头营村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区刘家店镇东山下村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区山东庄镇李辛庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇晏庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区刘家店镇辛庄子村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区刘家店镇江米洞村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇罗汉石村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区刘家店镇胡家店村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区刘家店镇凤落滩村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区山东庄镇大坎村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇黄草洼村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区金海湖镇向阳村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区熊儿寨乡北土门村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区熊儿寨乡魏家湾村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区熊儿寨乡南岔村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区熊儿寨乡老泉口村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇许家务村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇乐政务村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇北上营村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇太平庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区王辛庄镇王辛庄村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区熊儿寨乡东沟村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区熊儿寨乡花峪村卫生室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京康泰居安养老服务有限公司医务室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区刘家店镇敬老院诊所",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区颐佰年老年公寓诊所",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    },
+    {
+      "entity_name": "北京市平谷区子山福缘老年公寓医务室",
+      "credit_code": null,
+      "tag": "无等级定点医疗机构"
+    }
+  ],
+  "filtered_out_count": 0
+}

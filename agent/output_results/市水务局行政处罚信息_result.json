@@ -1,0 +1,89 @@
+{
+  "file_name": "市水务局行政处罚信息.json",
+  "file_tags": [
+    "行政处罚"
+  ],
+  "results": [
+    {
+      "entity_name": "北京丰台众仁堂中医医院",
+      "credit_code": null,
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "北京金典糖尿病医院有限公司",
+      "credit_code": null,
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "北京市东城区龙潭社区卫生服务中心",
+      "credit_code": null,
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "北京保平中西医结合医院",
+      "credit_code": null,
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "北京丰台广济中西医结合医院",
+      "credit_code": null,
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "中交第三航务工程局有限公司京沈客专京冀段十一标项目部",
+      "credit_code": null,
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "北京华德眼科医院有限公司",
+      "credit_code": null,
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "中国中医科学院针灸研究所",
+      "credit_code": null,
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "北京市西城区椿树社区卫生服务中心",
+      "credit_code": null,
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "北京朝阳糖尿病医院股份有限公司",
+      "credit_code": null,
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "北京市宣武区厂甸市场管理处",
+      "credit_code": null,
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "北京崇文中方中医医院",
+      "credit_code": null,
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "北京华都中医医院",
+      "credit_code": null,
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "北京市西城区证仁医院",
+      "credit_code": null,
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "北京健行中医医院",
+      "credit_code": null,
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "北京市西城区牛街社区卫生服务中心",
+      "credit_code": null,
+      "tag": "行政处罚"
+    }
+  ],
+  "filtered_out_count": 11
+}

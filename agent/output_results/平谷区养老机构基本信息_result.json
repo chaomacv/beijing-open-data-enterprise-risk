@@ -1,0 +1,175 @@
+{
+  "file_name": "平谷区养老机构基本信息.json",
+  "file_tags": [
+    "普通养老机构",
+    "养老照料中心"
+  ],
+  "results": [
+    {
+      "entity_name": "温暖之家老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "东高村镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "熊儿寨乡敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "南独乐河镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "金海湖镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "大华山镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "黄松峪乡敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "王辛庄镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "大兴庄镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "刘家店镇敬老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "吉祥老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "金阳老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "敬朋福利院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "兴谷老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "阳光老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "子山福缘老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "怡馨老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "康德馨养老院",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "爱助夕阳老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "泰和永康老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "东安仙居老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "兴龙老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "顺新老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "合家老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "东方龙昌老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "颐佰年老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "古槐之家老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "迎金康老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "乔松老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "安心之家老年公寓",
+      "credit_code": null,
+      "tag": "养老照料中心"
+    },
+    {
+      "entity_name": "北京康泰居安养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "骏隆老年公寓",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    },
+    {
+      "entity_name": "福园雅居养老服务有限公司",
+      "credit_code": null,
+      "tag": "普通养老机构"
+    }
+  ],
+  "filtered_out_count": 2
+}

@@ -1,0 +1,184 @@
+{
+  "file_name": "北京市乡村治理示范村镇名单.json",
+  "file_tags": [
+    "第一批乡村治理示范村",
+    "第一批乡村治理示范镇",
+    "第二批乡村治理示范村",
+    "第二批乡村治理示范镇",
+    "第三批乡村治理示范村",
+    "第三批乡村治理示范镇"
+  ],
+  "results": [
+    {
+      "entity_name": "温泉镇白家疃村",
+      "credit_code": null,
+      "tag": "第一批乡村治理示范村"
+    },
+    {
+      "entity_name": "清水镇洪水口村",
+      "credit_code": null,
+      "tag": "第一批乡村治理示范村"
+    },
+    {
+      "entity_name": "周口店镇黄山店村",
+      "credit_code": null,
+      "tag": "第一批乡村治理示范村"
+    },
+    {
+      "entity_name": "于家务回族乡仇庄村",
+      "credit_code": null,
+      "tag": "第一批乡村治理示范村"
+    },
+    {
+      "entity_name": "高丽营镇一村",
+      "credit_code": null,
+      "tag": "第一批乡村治理示范村"
+    },
+    {
+      "entity_name": "十三陵镇仙人洞村",
+      "credit_code": null,
+      "tag": "第一批乡村治理示范村"
+    },
+    {
+      "entity_name": "礼贤镇龙头村",
+      "credit_code": null,
+      "tag": "第一批乡村治理示范村"
+    },
+    {
+      "entity_name": "刘家店镇",
+      "credit_code": null,
+      "tag": "第一批乡村治理示范镇"
+    },
+    {
+      "entity_name": "刘家店镇寅洞村",
+      "credit_code": null,
+      "tag": "第一批乡村治理示范村"
+    },
+    {
+      "entity_name": "溪翁庄镇东智北村",
+      "credit_code": null,
+      "tag": "第一批乡村治理示范村"
+    },
+    {
+      "entity_name": "八达岭镇里炮村",
+      "credit_code": null,
+      "tag": "第一批乡村治理示范村"
+    },
+    {
+      "entity_name": "黑庄户乡小鲁店村",
+      "credit_code": null,
+      "tag": "第二批乡村治理示范村"
+    },
+    {
+      "entity_name": "清水镇",
+      "credit_code": null,
+      "tag": "第二批乡村治理示范镇"
+    },
+    {
+      "entity_name": "清水镇梁家庄村",
+      "credit_code": null,
+      "tag": "第二批乡村治理示范村"
+    },
+    {
+      "entity_name": "大石窝镇王家磨村",
+      "credit_code": null,
+      "tag": "第二批乡村治理示范村"
+    },
+    {
+      "entity_name": "永乐店镇老槐庄村",
+      "credit_code": null,
+      "tag": "第二批乡村治理示范村"
+    },
+    {
+      "entity_name": "龙湾屯镇柳庄户村",
+      "credit_code": null,
+      "tag": "第二批乡村治理示范村"
+    },
+    {
+      "entity_name": "延寿镇湖门村",
+      "credit_code": null,
+      "tag": "第二批乡村治理示范村"
+    },
+    {
+      "entity_name": "长子营镇小黑垡村",
+      "credit_code": null,
+      "tag": "第二批乡村治理示范村"
+    },
+    {
+      "entity_name": "大华山镇梯子峪村",
+      "credit_code": null,
+      "tag": "第二批乡村治理示范村"
+    },
+    {
+      "entity_name": "渤海镇北沟村",
+      "credit_code": null,
+      "tag": "第二批乡村治理示范村"
+    },
+    {
+      "entity_name": "河南寨镇套里村",
+      "credit_code": null,
+      "tag": "第二批乡村治理示范村"
+    },
+    {
+      "entity_name": "张山营镇西大庄科村",
+      "credit_code": null,
+      "tag": "第二批乡村治理示范村"
+    },
+    {
+      "entity_name": "高碑店乡高井村",
+      "credit_code": null,
+      "tag": "第三批乡村治理示范村"
+    },
+    {
+      "entity_name": "妙峰山镇炭厂村",
+      "credit_code": null,
+      "tag": "第三批乡村治理示范村"
+    },
+    {
+      "entity_name": "大石窝镇辛庄村",
+      "credit_code": null,
+      "tag": "第三批乡村治理示范村"
+    },
+    {
+      "entity_name": "于家务回族乡富各庄村",
+      "credit_code": null,
+      "tag": "第三批乡村治理示范村"
+    },
+    {
+      "entity_name": "南彩镇河北村",
+      "credit_code": null,
+      "tag": "第三批乡村治理示范村"
+    },
+    {
+      "entity_name": "南口镇花塔村",
+      "credit_code": null,
+      "tag": "第三批乡村治理示范村"
+    },
+    {
+      "entity_name": "庞各庄镇",
+      "credit_code": null,
+      "tag": "第三批乡村治理示范镇"
+    },
+    {
+      "entity_name": "山东庄镇桃棚村",
+      "credit_code": null,
+      "tag": "第三批乡村治理示范村"
+    },
+    {
+      "entity_name": "喇叭沟门满族乡中榆树店村",
+      "credit_code": null,
+      "tag": "第三批乡村治理示范村"
+    },
+    {
+      "entity_name": "冯家峪镇西白莲峪村",
+      "credit_code": null,
+      "tag": "第三批乡村治理示范村"
+    },
+    {
+      "entity_name": "康庄镇火烧营村",
+      "credit_code": null,
+      "tag": "第三批乡村治理示范村"
+    }
+  ],
+  "filtered_out_count": 0
+}

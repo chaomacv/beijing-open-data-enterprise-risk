@@ -1,0 +1,106 @@
+{
+  "file_name": "27-海淀区幼儿园办园质量督导评估结果.json",
+  "file_tags": [
+    "A级幼儿园",
+    "B级幼儿园",
+    "C级幼儿园"
+  ],
+  "results": [
+    {
+      "entity_name": "北京明天幼稚集团一幼塔院园",
+      "credit_code": null,
+      "tag": "A级幼儿园"
+    },
+    {
+      "entity_name": "北京明天幼稚集团三幼志强园",
+      "credit_code": null,
+      "tag": "A级幼儿园"
+    },
+    {
+      "entity_name": "北京明天幼稚集团四幼知春里园",
+      "credit_code": null,
+      "tag": "A级幼儿园"
+    },
+    {
+      "entity_name": "北京明天幼稚集团八幼上地园",
+      "credit_code": null,
+      "tag": "A级幼儿园"
+    },
+    {
+      "entity_name": "北京市六一幼儿院",
+      "credit_code": null,
+      "tag": "A级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区北京师范大学实验幼儿园牡丹园分园幼儿园",
+      "credit_code": null,
+      "tag": "A级幼儿园"
+    },
+    {
+      "entity_name": "中央军委机关事务管理总局红星幼儿园（万寿路园）",
+      "credit_code": null,
+      "tag": "B级幼儿园"
+    },
+    {
+      "entity_name": "中央军委机关事务管理总局红星幼儿园（复兴路园）",
+      "credit_code": null,
+      "tag": "B级幼儿园"
+    },
+    {
+      "entity_name": "中央军委机关事务管理总局北极寺老干部服务管理局幼儿园",
+      "credit_code": null,
+      "tag": "B级幼儿园"
+    },
+    {
+      "entity_name": "中国科学院幼儿园",
+      "credit_code": null,
+      "tag": "B级幼儿园"
+    },
+    {
+      "entity_name": "中国科学院第一幼儿园北斗分园",
+      "credit_code": null,
+      "tag": "B级幼儿园"
+    },
+    {
+      "entity_name": "北京语言大学幼儿园",
+      "credit_code": null,
+      "tag": "B级幼儿园"
+    },
+    {
+      "entity_name": "中央民族大学幼儿园",
+      "credit_code": null,
+      "tag": "B级幼儿园"
+    },
+    {
+      "entity_name": "北京市农林科学院幼儿园",
+      "credit_code": null,
+      "tag": "B级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区北部新区苏家坨艺术幼儿园",
+      "credit_code": null,
+      "tag": "B级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区四季阳光幼儿园",
+      "credit_code": null,
+      "tag": "B级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区合一幼儿园",
+      "credit_code": null,
+      "tag": "B级幼儿园"
+    },
+    {
+      "entity_name": "北京市海淀区宏远幼儿园",
+      "credit_code": null,
+      "tag": "B级幼儿园"
+    },
+    {
+      "entity_name": "中国人民解放军66400部队幼儿园",
+      "credit_code": null,
+      "tag": "C级幼儿园"
+    }
+  ],
+  "filtered_out_count": 1
+}

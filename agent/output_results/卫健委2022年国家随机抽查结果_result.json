@@ -1,0 +1,155 @@
+{
+  "file_name": "卫健委2022年国家随机抽查结果.json",
+  "file_tags": [
+    "行政检查合格",
+    "行政检查不合格"
+  ],
+  "results": [
+    {
+      "entity_name": "好益生医院",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区四海镇郭家湾村卫生室",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区四海镇南湾村卫生室",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区中心血站",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区康庄镇社区卫生服务中心",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京中医医院延庆医院(北京市延庆区中医医院）",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区医院（北京大学第三医院延庆医院）",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区妇幼保健院",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区张山营镇下板泉村卫生室",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区珍珠泉中心小学",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区结核病防治所",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京欢乐分享口腔门诊部",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区水利工程服务中心",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区沈家营中心小学",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区永宁学校",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区香营学校",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区第三小学",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京市延庆区十一学校",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京市延庆区西屯中心小学",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京市延庆区小丰营中心小学",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京市延庆区太平庄中心小学",
+      "credit_code": "",
+      "tag": "行政检查不合格"
+    },
+    {
+      "entity_name": "北京姚官岭民俗旅游专业合作社",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区第一中学",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京人文研修学院医务室",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京人文研修学院医务室",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区四海镇南湾村卫生室",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区四海镇郭家湾村卫生室",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市延庆区张山营镇下板泉村卫生室",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    },
+    {
+      "entity_name": "北京市自来水集团缙阳水业有限责任公司",
+      "credit_code": "",
+      "tag": "行政检查合格"
+    }
+  ],
+  "filtered_out_count": 57
+}

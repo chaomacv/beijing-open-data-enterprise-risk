@@ -1,0 +1,29 @@
+{
+  "file_name": "西城区生态环境局行政处罚.json",
+  "file_tags": [
+    "行政处罚"
+  ],
+  "results": [
+    {
+      "entity_name": "北京振远护卫中心",
+      "credit_code": "91110000101178385B",
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "首都医科大学附属北京友谊医院",
+      "credit_code": "121100004006886096",
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "山西省工业设备安装集团有限公司",
+      "credit_code": "91140000110011149W",
+      "tag": "行政处罚"
+    },
+    {
+      "entity_name": "聚德华天控股有限公司北京烤肉季饭庄",
+      "credit_code": "91110102801351476P",
+      "tag": "行政处罚"
+    }
+  ],
+  "filtered_out_count": 20
+}

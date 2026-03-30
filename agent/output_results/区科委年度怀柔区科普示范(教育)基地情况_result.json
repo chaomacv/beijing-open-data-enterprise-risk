@@ -1,0 +1,29 @@
+{
+  "file_name": "区科委年度怀柔区科普示范(教育)基地情况.json",
+  "file_tags": [
+    "科普示范基地"
+  ],
+  "results": [
+    {
+      "entity_name": "北京市怀柔区中医医院",
+      "credit_code": null,
+      "tag": "科普示范基地"
+    },
+    {
+      "entity_name": "北京市怀柔区第一中学",
+      "credit_code": null,
+      "tag": "科普示范基地"
+    },
+    {
+      "entity_name": "北京欣水湾农业种植专业合作社",
+      "credit_code": null,
+      "tag": "科普示范基地"
+    },
+    {
+      "entity_name": "北京纳米能源与系统研究所",
+      "credit_code": null,
+      "tag": "科普示范基地"
+    }
+  ],
+  "filtered_out_count": 7
+}
