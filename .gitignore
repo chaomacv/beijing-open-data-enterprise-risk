@@ -43,3 +43,9 @@ agent/非企业数据矩阵特征宽表.xlsx
 agent/非企业数据矩阵特征宽表.csv
 agent/output_results/*.json
 agent/output_result/*.json
+
+# 非企业数据大文件（保留在本地）
+agent/非企业数据矩阵特征宽表.xlsx
+agent/非企业数据矩阵特征宽表.csv
+agent/output_results/*.json
+agent/output_result/*.json
