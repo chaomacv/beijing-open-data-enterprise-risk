@@ -12,6 +12,18 @@
 - 如何从结构不统一的 CSV/Excel 文件中识别企业或机构主体；
 - 如何将处罚、资质、荣誉、补贴、检查等信息转化为可解释的标签和宽表特征。
 
+## 任务拆解
+
+| 任务 | 目标 | 对应目录/脚本 | 主要产物 |
+| --- | --- | --- | --- |
+| 数据集筛选 | 从开放数据目录中找出银行关心的数据集 | `scripts/enterprise_kyc_classifier.py` | `output/目录清单_分类结果.xlsx` |
+| 人工复核 | 删除误命中或业务价值较低的数据集 | Excel 人工处理 | `output/目录清单_分类结果_人工过筛.xlsx` |
+| 元信息补充 | 补充更新时间和实际下载文件名 | `scripts/dataset_freshness_and_filename_updater.py` | `*_更新时间_补充文件名.xlsx` |
+| 数据下载 | 登录开放数据平台并批量下载文件 | `scripts/batch_downloader.py` | `output/bank/*` |
+| 主体抽取 | 从 CSV/Excel 中识别企业名称列并生成标签 | `scripts/build_entity_profile_one_pass.py` | 企业标签明细和辅助 JSON |
+| 宽表构建 | 聚合企业维度 one-hot 特征 | `scripts/build_entity_profile_one_pass.py` | `output/特征矩阵风控模型宽表.xlsx` |
+| 非企业扩展 | 处理事业单位、社会组织、医院、学校等机构 | `agent/` | `agent/output_results/*_result.json` |
+
 ## 核心能力
 
 - **开放数据筛选**：从约 `4433` 个北京市开放数据目录中筛选涉企数据，并沉淀关键词分类规则。
@@ -24,19 +36,43 @@
 ## 处理流程
 
 ```mermaid
-flowchart LR
-    A[开放数据目录] --> B[数据集分类打标]
-    B --> C[人工复核]
-    C --> D[补充更新时间和文件名]
-    D --> E[精简索引字段]
-    E --> F[批量下载数据文件]
-    F --> G[主体抽取和标签映射]
-    G --> H[企业风控特征宽表]
+flowchart TD
+    A[开放数据目录<br/>output/目录清单.xlsx] --> B[规则分类<br/>enterprise_kyc_classifier.py]
+    B --> C[人工复核<br/>保留高价值涉企数据集]
+    C --> D[补充元信息<br/>更新时间 + 具体文件名]
+    D --> E[批量下载<br/>output/bank]
+    D --> F[精简索引列]
+    E --> G[主体抽取和行级过滤]
+    F --> G
+    G --> H[企业标签聚合]
+    H --> I[风控特征宽表<br/>output/特征矩阵风控模型宽表.xlsx]
 
-    I[非企业 JSON 数据] --> J[Gemini 批处理或定制转换]
-    J --> K[机构标签结果]
-    K --> L[非企业机构特征宽表]
+    J[非企业 JSON 数据<br/>agent/input_jsons] --> K[Gemini 批处理或定制转换]
+    K --> L[机构标签结果<br/>agent/output_results]
 ```
+
+## 5 分钟上手
+
+如果只想快速理解项目，按这个顺序看：
+
+1. 先看本文档的“任务拆解”和“处理流程”。
+2. 再看 [docs/pipeline.md](docs/pipeline.md)，确认每一步的输入输出。
+3. 看 `scripts/enterprise_kyc_classifier.py`，理解数据集如何被分类。
+4. 看 `scripts/build_entity_profile_one_pass.py`，理解企业主体抽取和宽表构建。
+5. 如需处理非企业机构，再看 `agent/gemini_batchThreadPoolExecutor.py` 和 `agent/CodeGeneratePrompt.txt`。
+
+如果只想跑企业数据主流程，最短路径是：
+
+```bash
+python scripts/enterprise_kyc_classifier.py
+# 人工复核 output/目录清单_分类结果.xlsx
+python scripts/dataset_freshness_and_filename_updater.py
+python scripts/prune_columns.py
+python scripts/batch_downloader.py
+python scripts/build_entity_profile_one_pass.py
+```
+
+更完整的命令和输入输出说明见 [docs/pipeline.md](docs/pipeline.md)。
 
 ## 目录结构
 
