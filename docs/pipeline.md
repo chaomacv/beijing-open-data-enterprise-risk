@@ -1,56 +1,47 @@
 # 项目处理链路
 
-本文档说明 `agent/bank` 项目的脚本链路、输入输出关系和推荐执行顺序。
+本文档面向第一次接手项目的人，说明每个任务要做什么、输入是什么、输出是什么，以及应该按什么顺序运行。
 
-当前仓库采用“代码、数据和输出结果统一入库”的组织方式：
+## 一句话流程
 
-- 核心脚本在 `scripts/`
-- 真实运行产物默认放在 `output/`
-- 原始开放数据或样例数据默认放在 `dataset/`
+把北京市开放数据平台中的数据集目录，经过“筛选 - 复核 - 补充元信息 - 下载 - 主体抽取 - 标签聚合”，转换成银行风控可用的企业/机构标签宽表。
 
-## 目录说明
+## 任务拆解
 
-- `scripts/enterprise_kyc_classifier.py`：按数据集名称做规则分类打标。
-- `scripts/dataset_freshness_and_filename_updater.py`：补充数据集最新更新时间和实际文件名。
-- `scripts/batch_downloader.py`：扫码登录后批量下载数据文件。
-- `scripts/prune_columns.py`：从索引表中保留后续画像构建所需的关键列。
-- `scripts/build_entity_profile_one_pass.py`：从下载文件中抽取企业名称并构建风控宽表。
-- `output/`：默认运行工作区和输出目录。
+| 阶段 | 任务 | 主要脚本/动作 | 输入 | 输出 | 是否人工参与 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 数据集初筛分类 | `scripts/enterprise_kyc_classifier.py` | `output/目录清单.xlsx` | `output/目录清单_分类结果.xlsx` | 否 |
+| 2 | 业务复核 | 人工筛选 Excel | `output/目录清单_分类结果.xlsx` | `output/目录清单_分类结果_人工过筛.xlsx` | 是 |
+| 3 | 补充元信息 | `scripts/dataset_freshness_and_filename_updater.py` | 人工过筛表 | 更新日期和具体文件名补充表 | 否 |
+| 4 | 精简索引列 | `scripts/prune_columns.py` | 元信息补充表 | 精简列信息表 | 否 |
+| 5 | 批量下载文件 | `scripts/batch_downloader.py` | 元信息补充表 | `output/bank/` 下载文件 | 需要扫码登录 |
+| 6 | 构建企业宽表 | `scripts/build_entity_profile_one_pass.py` | 精简列信息表 + 下载文件 | `output/特征矩阵风控模型宽表.xlsx` | 否 |
+| 7 | 非企业机构处理 | `agent/gemini_batchThreadPoolExecutor.py` 或定制脚本 | `agent/input_jsons/*.json` | `agent/output_results/*_result.json` | 可选 |
 
-## 推荐执行顺序
+## 总体流程图
 
-```text
-output/目录清单.xlsx
-  -> scripts/enterprise_kyc_classifier.py
-output/目录清单_分类结果.xlsx
-  -> 人工过筛
-output/目录清单_分类结果_人工过筛.xlsx
-  -> scripts/dataset_freshness_and_filename_updater.py
-output/目录清单_分类结果_人工过筛_更新时间_补充文件名.xlsx
-  -> scripts/prune_columns.py
-output/目录清单_分类结果_人工过筛_更新时间_补充文件名_精简列信息.xlsx
-  + output/bank/*.csv|*.xlsx
-  -> scripts/build_entity_profile_one_pass.py
-output/特征矩阵风控模型宽表.xlsx
+```mermaid
+flowchart TD
+    A[output/目录清单.xlsx<br/>开放数据目录] --> B[enterprise_kyc_classifier.py<br/>按数据集名称分类]
+    B --> C[output/目录清单_分类结果.xlsx]
+    C --> D[人工业务复核<br/>删除低价值或误命中数据集]
+    D --> E[output/目录清单_分类结果_人工过筛.xlsx]
+    E --> F[dataset_freshness_and_filename_updater.py<br/>补充更新时间和具体文件名]
+    F --> G[output/目录清单_分类结果_人工过筛_更新时间_补充文件名.xlsx]
+    G --> H[prune_columns.py<br/>保留画像构建所需字段]
+    H --> I[output/目录清单_分类结果_人工过筛_更新时间_补充文件名_精简列信息.xlsx]
+    G --> J[batch_downloader.py<br/>登录平台并下载数据]
+    J --> K[output/bank/*.csv 或 *.xlsx]
+    I --> L[build_entity_profile_one_pass.py<br/>主体抽取、标签映射、宽表聚合]
+    K --> L
+    L --> M[output/特征矩阵风控模型宽表.xlsx]
 ```
 
-## 各脚本说明
+## 企业数据流程
 
-### 1. `enterprise_kyc_classifier.py`
+### 1. 数据集初筛分类
 
-作用：
-
-- 读取 `output/目录清单.xlsx`
-- 根据 `数据集名称` 关键词进行一级分类和业务标签打标
-- 输出 `output/目录清单_分类结果.xlsx`
-
-运行示例：
-
-```bash
-python scripts/enterprise_kyc_classifier.py
-```
-
-支持参数：
+目标：从完整数据目录中筛出明显具备银行业务价值的数据集，并生成一级分类和业务标签。
 
 ```bash
 python scripts/enterprise_kyc_classifier.py \
@@ -58,34 +49,43 @@ python scripts/enterprise_kyc_classifier.py \
   --output-file output/目录清单_分类结果.xlsx
 ```
 
-### 2. 人工过筛
+输入表至少需要包含：
 
-作用：
+- `数据集名称`
 
-- 对自动分类结果做业务复核
-- 删除虽然命中关键词但价值不高的数据集
-- 形成后续抓取和下载的候选清单
+输出表会新增：
 
-人工产物：
+- `一级分类 (Core Risk Level)`
+- `业务标签 (Tags)`
 
-- `output/目录清单_分类结果_人工过筛.xlsx`
+当前分类维度：
 
-### 3. `dataset_freshness_and_filename_updater.py`
+- 严重信用违约风险
+- 经营合规预警
+- 经济优质企业
+- 科技与创新实力
+- 政府表彰与荣誉
+- 政策扶持与奖补
 
-作用：
+### 2. 人工业务复核
 
-- 逐条访问 `文章访问路径`
-- 提取最新 `更新日期`
-- 提取实际下载文件名，写入 `具体文件名称`
-- 删除无法识别实际文件名的记录
+目标：删除虽然命中关键词、但银行业务价值不高的数据集。
 
-运行示例：
+人工复核后的文件命名为：
 
-```bash
-python scripts/dataset_freshness_and_filename_updater.py
+```text
+output/目录清单_分类结果_人工过筛.xlsx
 ```
 
-支持参数：
+复核时建议重点看：
+
+- 数据主体是否为企业或可关联到企业；
+- 数据是否能反映风险、资质、荣誉、补贴、合规或经营能力；
+- 是否只是名称中误命中关键词，但实际内容与银行风控无关。
+
+### 3. 补充更新时间和具体文件名
+
+目标：访问数据集详情页，补充后续下载和匹配需要的字段。
 
 ```bash
 python scripts/dataset_freshness_and_filename_updater.py \
@@ -93,17 +93,24 @@ python scripts/dataset_freshness_and_filename_updater.py \
   --output-file output/目录清单_分类结果_人工过筛_更新时间_补充文件名.xlsx
 ```
 
-说明：
+输入表需要包含：
 
-- 依赖 Selenium、Chrome 和匹配版本的 ChromeDriver。
-- 如果页面抓不到新的更新时间，会保留原值并加上 `旧` 前缀。
+- `文章访问路径`
 
-### 4. `prune_columns.py`
+输出表会补充或更新：
 
-作用：
+- `更新日期`
+- `具体文件名称`
 
-- 从最新索引表中保留画像构建需要的核心字段
-- 生成更干净的下游输入表
+说明：如果页面抓不到新的更新时间，脚本会保留旧值并加上 `旧` 前缀。
+
+### 4. 精简索引列
+
+目标：保留下游画像构建需要的字段，减少后续处理表的复杂度。
+
+```bash
+python scripts/prune_columns.py
+```
 
 默认保留列：
 
@@ -115,78 +122,137 @@ python scripts/dataset_freshness_and_filename_updater.py \
 - `业务标签 (Tags)`
 - `具体文件名称`
 
-运行示例：
+默认输出：
 
-```bash
-python scripts/prune_columns.py
+```text
+output/目录清单_分类结果_人工过筛_更新时间_补充文件名_精简列信息.xlsx
 ```
 
-默认输入已对齐到：
+### 5. 批量下载数据文件
 
-- `output/目录清单_分类结果_人工过筛_更新时间_补充文件名.xlsx`
-
-### 5. `batch_downloader.py`
-
-作用：
-
-- 打开北京市开放数据平台
-- 人工微信扫码登录
-- 逐条进入数据集页面并触发下载
-- 将未能成功下载的记录写入 `un_downloaded_records.csv`
-
-运行示例：
+目标：根据索引表进入开放数据平台详情页，批量触发下载。
 
 ```bash
-python scripts/batch_downloader.py
+python scripts/batch_downloader.py \
+  --input output/目录清单_分类结果_人工过筛_更新时间_补充文件名.xlsx \
+  --download-dir output/bank
 ```
 
-默认情况下：
+注意：
 
-- 输入索引表使用 `output/目录清单_分类结果_人工过筛_更新时间_补充文件名.xlsx`
-- 下载目录使用 `output/bank/`
+- 该步骤依赖 Chrome、ChromeDriver 和 Selenium。
+- 运行过程中需要人工微信扫码登录。
+- 未成功下载的记录会写入失败清单，便于后续补下载。
 
-### 6. `build_entity_profile_one_pass.py`
+### 6. 构建企业风控宽表
 
-作用：
-
-- 读取精简后的索引表
-- 到 `output/bank/` 中寻找对应下载文件
-- 自动识别企业名称列
-- 将命中的标签映射为 one-hot 特征
-- 聚合成企业风控画像宽表
-
-运行示例：
+目标：读取下载后的 CSV/Excel 文件，识别企业主体列，按标签生成企业级特征宽表。
 
 ```bash
-python scripts/build_entity_profile_one_pass.py
+python scripts/build_entity_profile_one_pass.py \
+  --index-file output/目录清单_分类结果_人工过筛_更新时间_补充文件名_精简列信息.xlsx \
+  --csv-dir output/bank \
+  --output-file output/特征矩阵风控模型宽表.xlsx
 ```
 
-默认输入输出：
+脚本会处理：
 
-- 索引表：`output/目录清单_分类结果_人工过筛_更新时间_补充文件名_精简列信息.xlsx`
-- 数据目录：`output/bank/`
-- 输出文件：`output/特征矩阵风控模型宽表.xlsx`
+- CSV 编码识别；
+- CSV/Excel 格式判断；
+- 表头行尝试；
+- 企业名称列识别；
+- 检查、抽检、执法类数据的行级过滤；
+- 标签 one-hot 聚合。
 
-同时还会生成：
+常见辅助输出：
 
 - `output/未匹配文件列表.json`
 - `output/补充处理成功文件_v2.json`
 - `output/仅记录文件名_信用红黑名单.json`
 - `output/手动处理文件.xlsx`
 
-## 依赖环境
+## 非企业机构流程
 
-```bash
-pip install -r requirements.txt
+非企业机构流程用于处理事业单位、社会组织、医院、学校、合作社等主体。
+
+```mermaid
+flowchart TD
+    A[agent/input_jsons/*.json] --> B{文件复杂度判断}
+    B -->|结构简单| C[gemini_batchThreadPoolExecutor.py]
+    B -->|结构复杂或数据量大| D[定制 convert_xxx.py]
+    C --> E[agent/output_results/*_result.json]
+    D --> E
+    E --> F[机构标签明细]
+    F --> G[非企业机构特征宽表]
 ```
 
-另外还需要：
+### Gemini 批处理
 
-- Chrome 浏览器
-- 与浏览器匹配的 ChromeDriver
+运行前先设置 API Key：
+
+```bash
+export MODELVERSE_API_KEY=your_api_key_here
+```
+
+Windows PowerShell：
+
+```powershell
+$env:MODELVERSE_API_KEY="your_api_key_here"
+```
+
+执行批处理：
+
+```bash
+python agent/gemini_batchThreadPoolExecutor.py \
+  --input-folder agent/input_jsons \
+  --output-folder agent/output_results \
+  --max-workers 10
+```
+
+输出 JSON 格式：
+
+```json
+{
+  "file_name": "原始文件名.json",
+  "file_tags": ["标签1", "标签2"],
+  "results": [
+    {
+      "entity_name": "机构名称",
+      "credit_code": "统一社会信用代码",
+      "tag": "具体业务标签"
+    }
+  ],
+  "filtered_out_count": 12
+}
+```
+
+## 新手上手顺序
+
+第一次看项目时，建议按下面顺序阅读：
+
+1. 读 `README.md`，先了解项目目标和整体流程。
+2. 读本文档，明确每一步的输入输出。
+3. 看 `scripts/enterprise_kyc_classifier.py`，理解标签分类规则。
+4. 看 `scripts/build_entity_profile_one_pass.py`，理解主体抽取和宽表构建。
+5. 如需处理非企业数据，再看 `agent/CodeGeneratePrompt.txt` 和 `agent/gemini_batchThreadPoolExecutor.py`。
+
+## 常见问题
+
+### 为什么有人工复核？
+
+开放数据目录规模大，且数据集名称存在关键词误命中。人工复核用于保证后续下载和宽表构建的数据集确实有银行业务价值。
+
+### 为什么检查、抽检、执法类数据要做行级过滤？
+
+这类数据集中可能同时存在合格和不合格记录。如果整表打标签，会把正常企业误标为风险企业，因此需要结合结果列做行级判断。
+
+### 为什么有些文件会进入手动处理清单？
+
+公开数据文件格式不统一，可能存在多行表头、合并单元格、主体列缺失、文件名不匹配等情况。手动处理清单用于显式记录这些无法稳定自动处理的文件。
 
 ## 维护建议
 
 - `scripts/` 保持为通用、可复用的处理脚本。
-- `output/` 记录阶段性产物和最终结果，便于直接回溯。
-- 如果后续还要补充 GitHub 展示材料，优先往 `docs/` 放流程图和说明截图。
+- `output/` 记录阶段性产物和最终结果，便于回溯。
+- 新增标签规则时，同时补充业务解释，避免只有关键词。
+- 新增外部 API 调用时，统一从环境变量读取密钥。
