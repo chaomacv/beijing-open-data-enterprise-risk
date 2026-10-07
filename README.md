@@ -154,13 +154,7 @@ python scripts/build_entity_profile_one_pass.py \
 
 ### 1. 配置 API Key
 
-复制环境变量示例文件，并填入自己的 Key：
-
-```bash
-cp .env.example .env
-```
-
-或直接导出环境变量：
+可以参考 `.env.example` 记录本地配置，但脚本默认读取当前 shell 环境变量。运行前请导出自己的 Key：
 
 ```bash
 export MODELVERSE_API_KEY=your_api_key_here
