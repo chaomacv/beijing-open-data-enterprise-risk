@@ -1,21 +1,17 @@
-import os
+import argparse
 import json
-from openai import OpenAI
+import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
 
-# ================= 配置区域 =================
-# 🚨 警告：请务必去优云智算控制台重置这个 Key，避免被恶意盗刷导致欠费。
-API_KEY = "JvSi87WwspUNYUEb72E3530b-18fA-4a7c-8196-C356F5C6"
+from openai import OpenAI
 
-# 直接使用文档推荐的统一通用端点
-BASE_URL = "https://api.modelverse.cn/v1/" 
-MODEL_NAME = "gemini-2.5-pro"  # 平台支持用 OpenAI 协议直接点名 Gemini
 
-INPUT_FOLDER = "./input_jsons"
-OUTPUT_FOLDER = "./output_results"
-
-# 并发线程数（根据你的需求设置为 10）
-MAX_WORKERS = 10 
+DEFAULT_BASE_URL = "https://api.modelverse.cn/v1/"
+DEFAULT_MODEL_NAME = "gemini-2.5-pro"
+DEFAULT_INPUT_FOLDER = Path(__file__).resolve().parent / "input_jsons"
+DEFAULT_OUTPUT_FOLDER = Path(__file__).resolve().parent / "output_results"
+DEFAULT_MAX_WORKERS = 10
 
 # 专门针对政务数据与组织机构的提取指令
 TASK_REQUIREMENT = """
@@ -54,99 +50,134 @@ TASK_REQUIREMENT = """
   "filtered_out_count": 12
 }
 """
-# ============================================
 
-def setup_folders():
-    if not os.path.exists(INPUT_FOLDER):
-        os.makedirs(INPUT_FOLDER)
-    if not os.path.exists(OUTPUT_FOLDER):
-        os.makedirs(OUTPUT_FOLDER)
 
-def process_single_file(client, file_path, output_path):
-    filename = os.path.basename(file_path)
+def parse_args():
+    parser = argparse.ArgumentParser(description="批量调用兼容 OpenAI 协议的 Gemini 接口处理非企业 JSON 数据")
+    parser.add_argument(
+        "--input-folder",
+        default=os.getenv("GEMINI_INPUT_FOLDER", str(DEFAULT_INPUT_FOLDER)),
+        help="待处理 JSON 文件目录，默认使用 agent/input_jsons",
+    )
+    parser.add_argument(
+        "--output-folder",
+        default=os.getenv("GEMINI_OUTPUT_FOLDER", str(DEFAULT_OUTPUT_FOLDER)),
+        help="结果输出目录，默认使用 agent/output_results",
+    )
+    parser.add_argument(
+        "--api-key-env",
+        default="MODELVERSE_API_KEY",
+        help="读取 API Key 的环境变量名，默认 MODELVERSE_API_KEY",
+    )
+    parser.add_argument(
+        "--base-url",
+        default=os.getenv("MODELVERSE_BASE_URL", DEFAULT_BASE_URL),
+        help="兼容 OpenAI 协议的 API Base URL",
+    )
+    parser.add_argument(
+        "--model",
+        default=os.getenv("MODELVERSE_MODEL", DEFAULT_MODEL_NAME),
+        help="模型名称",
+    )
+    parser.add_argument(
+        "--max-workers",
+        type=int,
+        default=int(os.getenv("GEMINI_MAX_WORKERS", DEFAULT_MAX_WORKERS)),
+        help="并发线程数",
+    )
+    parser.add_argument(
+        "--overwrite",
+        action="store_true",
+        help="覆盖已经存在的 *_result.json 文件",
+    )
+    return parser.parse_args()
+
+
+def setup_folders(input_folder, output_folder):
+    input_folder.mkdir(parents=True, exist_ok=True)
+    output_folder.mkdir(parents=True, exist_ok=True)
+
+
+def clean_json_response(result_text):
+    result_text = result_text.strip()
+    if result_text.startswith("```json"):
+        result_text = result_text[7:]
+    if result_text.startswith("```"):
+        result_text = result_text[3:]
+    if result_text.endswith("```"):
+        result_text = result_text[:-3]
+    return result_text.strip()
+
+
+def process_single_file(client, file_path, output_path, model_name):
+    filename = file_path.name
     try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            json_content = f.read() 
-        
-        print(f"⏳ 正在请求 API 处理: {filename} ...")
+        json_content = file_path.read_text(encoding="utf-8")
+        print(f"正在请求 API 处理: {filename} ...")
 
-        # 将文件名注入到 user_prompt 中，让模型能够提取基础标签
         user_prompt = f"当前处理的文件名为：【{filename}】\n\n请分析以下 JSON 数据：\n```json\n{json_content}\n```"
-
-        # 使用最标准的 OpenAI completions 接口
         response = client.chat.completions.create(
-            model=MODEL_NAME,
+            model=model_name,
             messages=[
                 {"role": "system", "content": TASK_REQUIREMENT},
-                {"role": "user", "content": user_prompt}
+                {"role": "user", "content": user_prompt},
             ],
-            temperature=0.2
+            temperature=0.2,
         )
-        
-        result_text = response.choices[0].message.content.strip()
-        
-        # 简单清理模型可能附带的 Markdown json 标记
-        if result_text.startswith("```json"):
-            result_text = result_text[7:]
-        if result_text.endswith("```"):
-            result_text = result_text[:-3]
-        result_text = result_text.strip()
-        
-        # 保存为 .json 文件
-        with open(output_path, 'w', encoding='utf-8') as f:
-            f.write(result_text)
-            
-        print(f"✅ 成功保存结果至: {output_path}")
 
-    except Exception as e:
-        print(f"❌ 处理文件 {filename} 失败: {e}")
+        result_text = clean_json_response(response.choices[0].message.content)
+        json.loads(result_text)
+        output_path.write_text(result_text, encoding="utf-8")
+        print(f"成功保存结果至: {output_path}")
+    except Exception as exc:
+        print(f"处理文件 {filename} 失败: {exc}")
+
+
+def collect_tasks(input_folder, output_folder, overwrite=False):
+    tasks_to_run = []
+    for file_path in sorted(input_folder.glob("*.json")):
+        output_path = output_folder / f"{file_path.stem}_result.json"
+        if output_path.exists() and not overwrite:
+            print(f"{output_path.name} 已存在，跳过。")
+            continue
+        tasks_to_run.append((file_path, output_path))
+    return tasks_to_run
+
 
 def main():
-    setup_folders()
-    
-    # OpenAI 客户端是线程安全的，可以只初始化一次，在多个线程中共享使用
-    client = OpenAI(
-        api_key=API_KEY,
-        base_url=BASE_URL
-    )
+    args = parse_args()
+    input_folder = Path(args.input_folder).expanduser().resolve()
+    output_folder = Path(args.output_folder).expanduser().resolve()
+    api_key = os.getenv(args.api_key_env)
 
-    # 收集需要处理的任务列表
-    tasks_to_run = []
-    
-    for filename in os.listdir(INPUT_FOLDER):
-        if filename.endswith(".json"):
-            input_path = os.path.join(INPUT_FOLDER, filename)
-            output_filename = filename.replace(".json", "_result.json")
-            output_path = os.path.join(OUTPUT_FOLDER, output_filename)
-            
-            # 断点续传逻辑：如果结果文件已存在，则不加入任务列表
-            if os.path.exists(output_path):
-                print(f"⏭️ {output_filename} 已存在，跳过。")
-                continue
-                
-            tasks_to_run.append((input_path, output_path))
+    if not api_key:
+        raise SystemExit(f"请先设置环境变量 {args.api_key_env}，不要把 API Key 写入代码。")
 
-    # 如果有任务需要执行，则启动线程池
-    if tasks_to_run:
-        print(f"🚀 共找到 {len(tasks_to_run)} 个文件需要处理，启动并发 (线程数: {MAX_WORKERS})...")
-        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            # 提交所有任务到线程池
-            futures = [
-                executor.submit(process_single_file, client, input_path, output_path)
-                for input_path, output_path in tasks_to_run
-            ]
-            
-            # 等待所有任务完成（这一步主要为了阻塞主线程直到全部结束）
-            for future in as_completed(futures):
-                # 捕获线程内部可能未被捕获的致命异常
-                try:
-                    future.result()
-                except Exception as exc:
-                    print(f"⚠️ 发生线程级异常: {exc}")
-        
-        print("🎉 全部任务并发处理完成！")
-    else:
-        print("✅ 没有需要处理的新文件。")
+    if args.max_workers < 1:
+        raise SystemExit("--max-workers 必须大于等于 1")
+
+    setup_folders(input_folder, output_folder)
+    client = OpenAI(api_key=api_key, base_url=args.base_url)
+    tasks_to_run = collect_tasks(input_folder, output_folder, args.overwrite)
+
+    if not tasks_to_run:
+        print("没有需要处理的新文件。")
+        return
+
+    print(f"共找到 {len(tasks_to_run)} 个文件需要处理，启动并发线程数: {args.max_workers}")
+    with ThreadPoolExecutor(max_workers=args.max_workers) as executor:
+        futures = [
+            executor.submit(process_single_file, client, input_path, output_path, args.model)
+            for input_path, output_path in tasks_to_run
+        ]
+        for future in as_completed(futures):
+            try:
+                future.result()
+            except Exception as exc:
+                print(f"发生线程级异常: {exc}")
+
+    print("全部任务并发处理完成。")
+
 
 if __name__ == "__main__":
     main()
